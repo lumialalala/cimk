@@ -18,8 +18,8 @@ def load_model(file_config):
 
 def main(file_config):
     conf = load_conf(file_config)
-    #pro = preprocess(conf)
-    #pro.process()
+    pro = preprocess(conf)
+    pro.process()
     model = load_model(file_config)
     trainer = Trainer(model, conf)
     trainer.test_model(model)

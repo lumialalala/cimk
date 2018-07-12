@@ -1,7 +1,7 @@
 file_train: ../../data/cikm_spanish_train_20180516.txt
 file_test: ../../data/cikm_test_a_20180516.txt
-file_ft_train: ../../data/v1.0/ft_train1.txt
-file_ft_test: ../../data/v1.0/ft_test1.txt
+file_ft_train: ../../data/v1.0/ft_train.txt
+file_ft_test: ../../data/v1.0/ft_test.txt
 file_es_vec: ../../data/fast_text_vectors_wiki.es.vec/wiki.es.vec
 file_model: ../../data/v1.0/ft_model.bin
 file_re: ../../data/v1.0/re.txt

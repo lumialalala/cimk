@@ -11,6 +11,7 @@ class Trainer(object):
         for eachline in ft_test:
             eachline = eachline.strip()
             re = model.predict(eachline, k=2)
+            print(eachline, re)
             for i in range(0, 2):
                 if re[0][i][0] == '1':
                     score = re[0][i][1]
