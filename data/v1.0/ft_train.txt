@@ -1,0 +1,562 @@
+No podido pagar tarjeta debo hacer No puedo pagar pedido tarjeta__label__1
+Por aparece pagado pago sido deducido tarjeta He pagado transferencia bancaria pago sido recibido__label__0
+Cuándo recibiré reembolso si pago tarjeta crédito Cuándo recibiré reembolso si cancelo pedido__label__0
+Qué pasará después abrir disputa Qué pasará después haber enviado solicitud Servicio Garantía__label__0
+El producto recibido corresponde descripción Qué puedo hacer He recibido producto funciona__label__0
+Por cerrado pedido Por pedido cerrado Pedido rechazado__label__0
+Por puedo realizar pedido Puedo cancelar pedido pagado adelantado__label__0
+Por pago deducido incorrectamente Por pago deducido incorrectamente__label__1
+Como puedo pagar tarjeta creditodebito No puedo pagar pedido tarjeta Visa débito puedo hacer__label__0
+Por pedido verificación tras pago En etapa pedido__label__0
+Cómo puedo recibir reembolso tarjeta crédito Cómo pago tarjeta crédito__label__0
+Cómo puedo recibir reembolso tarjeta crédito No puedo recibir dinero tarjeta crédito__label__0
+Cómo puedo recibir reembolso tarjeta crédito Puedo hacer pagos tarjeta crédito__label__0
+Como puedo pagar mediante Mercado Pago Puedo enviar cheque método pago__label__0
+El producto recibido bueno funciona puedo hacer Qué puedo hacer si producto pedido disponible__label__0
+Puedo cambiar detalles pedido tamaño envío etc Cuáles detalles producto__label__0
+Puedo cambiar detalles pedido tamaño envío etc Puedo cambiar envío envío gratuito__label__0
+Qué Protección Comprador Qué Protección Comprador__label__1
+Cómo pagar pedido mediante Transferencia Bancaria Cómo procedemos pagar transferencia bancaria__label__1
+Puedo cancelar pedido preventa Puedo cancelar pedido pagado__label__0
+El nombre contraseña cuenta incorrecto Cuál número IBAN cuenta__label__0
+Cómo cambio dirección email Cómo cambio dirección email__label__1
+Por pagado pedido He pagado pedido sido cancelado email__label__0
+Cómo recuperar cupón Tengo cupón cómo uso nuevo pedido__label__0
+Por sale error intentar pagar Qué puedo hacer si hecho pedido error__label__0
+Por pago sido deducido dos veces Por pago hecho dos veces__label__1
+recibido reembolso He recibido mercancía reembolso completo__label__0
+Cómo puedo combinar varios pedidos solo pago Puedo combinar mensajes diferentes pedidos__label__0
+Cómo fijo dirección entrega He introducido dirección entrega incorrecta__label__0
+Cómo puedo confirmar entrega vez recibido pedido Confirmar pedido recibido__label__1
+Cómo puedo denunciar vendedorproducto Cómo denunciar vulneración marca__label__0
+Cómo elimino pedido Cómo elimino información__label__0
+Cómo ponerse contacto equipo disputas Cómo puedo ponerme contacto vendedor__label__0
+El pedido canceló cuánto tiempo necesario dinero tarjeta crédito No entendí forma dinero reembolsado__label__0
+El pedido canceló cuánto tiempo necesario dinero tarjeta crédito Recibiré dinero vuelta si cancela pedido__label__0
+Hola Quiero realizar seguimiento pedido cómo puedo saber número seguimiento Quiero número seguimiento__label__1
+Deseo comunicarme supervisor Quiero hablar humano__label__1
+Dice sistema disponible intentar tarde Intento pagar dice sistema disponible__label__0
+Dice sistema disponible intentar tarde Sistema disponible intente nuevo tarde__label__1
+Cómo puedo pagar WebMoney Cómo pagar través WebMoney__label__1
+Cómo puedo pagar WebMoney Cómo puedo pagar Western Union__label__0
+El sistema dispnible inténtalo nuevo tarde El servicio disponible Por favor inténtelo nuevo tarde__label__1
+Cómo puedo pagar moneda local Cómo puedo pagar productos cesta compra solo pago__label__0
+Cómo puedo pagar moneda local Cómo puedo pagar iDeal__label__0
+Cuánto tiempo tarda obtener reembolso completo Cuánto tarda entregarse__label__0
+Por cargo tarjeta crédito pedido Me cobraron tarjeta crédito nunca comprado__label__1
+Abrí disputa debo hacer continuación He abierto disputa puedo hacer después__label__1
+recibido reembolso No recibido paquete__label__0
+dinero pedido rembolso Recibiré dinero vuelta si cancela pedido__label__0
+Cómo reviso valoración Cómo dejo valoración productos__label__0
+Que Devoluciones Locales Qué Devoluciones domésticas__label__1
+Que Devoluciones Locales Las zapatillas Jordan réplicas__label__0
+Cuándo devolverá dinero pedido cancelado Se devolverá cupón__label__0
+Que Devoluciones Locales Los productos enviaron poca calidad__label__0
+Ahora disputa puedo hacer Abrí disputa ahora__label__0
+Ahora disputa puedo hacer Puedo hacer disputa dos veces__label__0
+Como puedo pagar traves transferencia bancaria Cuándo puedo comprar transferencia bancaria__label__1
+Como puedo pagar traves transferencia bancaria Hacen transferencia bancaria__label__0
+Qué formas pago Por método pago Western Union__label__0
+Cómo puedo recibir reembolso través saldo móvil Cómo recibo reembolso través WebMoney__label__0
+Cómo puedo recuperar dinero Cómo puedo transferir dinero cuenta__label__0
+Cómo recibiré reembolso pedido Cómo recibiré reembolso pedido__label__1
+Cómo puedo subir vídeo respuesta mediación disputa No puedo escribir caja texto respuesta__label__0
+Cuándo reembolso Cuándo reembolso__label__1
+LLEVO MAS DE UNA HORA ESPERANDO SU SERVICIO ES MUY MALO POR FAVOR REVISEN MI CONSULTA NO PUEDE SER QUE QUE ME CONTESTEN MUCHAS COSAS QUE HOY NO QUIERO SABER LEAN Y REVISEN MI CONSULTA Quiero devuelvan dinero__label__1
+LLEVO MAS DE UNA HORA ESPERANDO SU SERVICIO ES MUY MALO POR FAVOR REVISEN MI CONSULTA NO PUEDE SER QUE QUE ME CONTESTEN MUCHAS COSAS QUE HOY NO QUIERO SABER LEAN Y REVISEN MI CONSULTA Pedí muchas cosas diferentes tiendas quiero pagarlas todas juntas__label__1
+Cómo cancelo disputa Cómo cancelo disputa__label__1
+Cómo cancelo disputa Cómo modifico disputa__label__0
+Por puede abrir disputa Por pedido puede enviar paísregión__label__0
+Por puede abrir disputa Por pedido puede enviar China__label__0
+El pedido aparece cuenta Cómo recibo reembolso pedido En cuenta bancaria__label__0
+El vendedor dice stock pide cancele Intento registrarme dice servicio disponible__label__0
+Después cancelación cuántos días devolverán dinero Si pido ahora UPS cuántos días llega artículo país__label__0
+entonces puedo hacer salvar pedidos si dirección viene incompleta Ya pagado pedido aparece aún pagado hacer__label__0
+Tengo problema vendedor Tengo problema pago__label__0
+POR FAVOR LEAN MI CONSULTA NO PUEDE SER QUE QUE ME CONTESTEN MUCHAS COSAS QUE HOY NO QUIERO SABER LEAN MI CONSULTA Quiero devuelvan dinero__label__1
+Cómo establecer tarjeta principal Cómo puedo buscar productos página principal__label__0
+Cómo establecer tarjeta principal Cómo puedo establecer método pago automático__label__0
+Cómo establecer tarjeta principal Por falló establecer dirección envío__label__0
+Cómo conseguir devuelvan dinero Cómo puedo pedir devuelvan dinero pedido__label__1
+Cuándo recibiré pedido Recibiré pedido tiempo__label__0
+El producto compré funciona El producto compré funciona__label__1
+Qué pasa si producto dieron coincide descripción Qué pasa si acepto detalles disputa__label__0
+El sistema deja pagar El ordenador deja escribir mensajes__label__0
+El sistema deja pagar No deja abrir cuenta__label__0
+El sistema deja pagar Por sistema dice puedo participar promoción__label__0
+Cuándo recibiré reembolso después cerrar pedido Cuándo recibiré reembolso pedido cancelado__label__0
+Tengo problema disputa Tengo problema mal vendedor__label__0
+SU SERVICIO ES MUY MALO POR FAVOR LEAN MI CONSULTA NO PUEDE SER QUE QUE ME CONTESTEN MUCHAS COSAS QUE HOY NO QUIERO SABER LEAN MI CONSULTA necesito ayudes favor__label__1
+SU SERVICIO ES MUY MALO POR FAVOR LEAN MI CONSULTA NO PUEDE SER QUE QUE ME CONTESTEN MUCHAS COSAS QUE HOY NO QUIERO SABER LEAN MI CONSULTA Por pagar tarifa servicio banco__label__1
+Cómo hacer pago través Boleto Ya hecho pago Boleto__label__0
+Cómo puedo verificar dirección No puedo escribir dirección danesa__label__0
+Puedo cancelar pedido pagué Deseo cancelar pedido puedo__label__0
+Quiero saber cómo va realizar reembolso Quiero saber reembolso tarjeta crédito__label__0
+Cómo modificar disputa Cómo cancelar disputa aceptada__label__0
+Por pedido cierra pago deducido Por cancelado pedido__label__0
+Cada vez voy pagar dice ocurrido error desconocido Necesito enviar solicitud banco cada vez pago plazos__label__0
+Cuándo darán dinero después cancelar pedido Cuándo devolverían dinero El pedido llegado__label__0
+Dice cuenta autorizada hacer compras Dice sistema disponible__label__0
+El pedido pendiente recepción todavía recibido producto He pagado pedido Por pedido dice Pendiente pago__label__0
+Cómo pagar pedido mediante Transferencia Bancaria Quiero pagar factura transferencia bancaria__label__0
+Por aparece pagado pago sido deducido tarjeta Ya pagado pedido aparece aún pagado hacer__label__1
+Ya vez dando vueltas entendernos Podria atenderme alguien Por pago siendo verificado vez si sido confirmado__label__1
+Cómo puedo saber si pedido sido cancelado Quiero saber si pedido sido realizado__label__0
+Cómo puedo saber si pedido sido cancelado Cómo sé si pedido sido enviado__label__0
+Cómo usar cupón pedido Cómo usar cupón pedido__label__1
+Cuándo recibiré dinero Cuándo recibiré dinero__label__1
+Cuándo van enviar productos Puedo enviar productos China__label__0
+Cuándo van enviar productos Cuándo puedo recibir paquete después productos envíen__label__0
+Por cancelaron pedido Por Mi Pedido vacío__label__0
+Por cancelaron pedido Por pedido desaparecido__label__0
+Qué formas hacer pago Qué opciones pago puedo usar__label__1
+Qué formas hacer pago Quiero cancelar pedido vendedor envíó todas formas__label__0
+Quien cargo disputa Puedo obtener dirección correo electrónico Cómo puedo obtener mejores costes envío__label__0
+Quien cargo disputa Puedo obtener dirección correo electrónico Borrarme lista correo__label__0
+Cómo pago pedido través Westen Unión Cuál siguiente paso Cuál código país__label__0
+Cómo pago pedido través Westen Unión Cuál siguiente paso Podemos hacer pago través tarjeta débito__label__0
+El pedido llega vendedor responde El vendedor responde petición reembolso__label__0
+El producto quiero pedí El vendedor zapatos pedí contesta__label__0
+El tiempo procesamiento terminado vendedor enviado producto Cuándo recibiré reembolso si disputa terminado__label__0
+Hola problemas hacer pagos debido apelacion pendiente completada Tengo problemas crear cuenta__label__0
+puedo pagar pedido Cómo puedo pagar pedido__label__0
+Quiero hablar humano Quiero hablar humano__label__1
+Gracias hace compré producto solo duró salió defecto fabrica auto stereo Necesito instrucciones artículo compré__label__0
+Tengo problemas disputa Tengo problema disputa__label__1
+Cuándo debo pagar pedido preventa Cómo debo pagar Western Union__label__0
+Cómo pagar tarjeta crédito Tengo problema pagar online tarjeta crédito__label__0
+puedo hacer salvar pedidos si dirección viene incompleta Quiero pedidos envíen juntos dirección__label__0
+El sistema pago servicio Cómo uso Servicio Garantía__label__0
+Por estatus indica esperando pago Por pago congelado__label__0
+Por mostrado comentario Por pago verificado__label__0
+Por mostrado comentario Por extendido período entrega__label__0
+Por cancelado pedido Mi pedido sido cancelado Pueden decirme__label__1
+Por cerrado cuenta Por cancelado pedido__label__0
+Cómo puedo recibir reembolso través Western Union Tras hacer pedido cómo puedo pagar Western Union__label__0
+El pedido pagado El vendedor niega enviar pedido después haber pagado__label__0
+El pedido pagado Por pedido sido cancelado pago hecho__label__0
+El sitio permite abrir disputa No permite iniciar sesión__label__0
+quiero hablar persona Necesito hablar representante__label__1
+quiero saber reembolso Quiero saber mediación__label__0
+QUIERO HACER UNA CONSULTA Quiero hacer transferencia bancaria **__label__1
+problemas garantia problemas pedido__label__0
+Necesito presentar queja vendedor Quiero presentar reclamación vendedor estafado__label__1
+Quiero recuperar dinero No puedo esperar tiempo Quiero extender tiempo envío * días__label__0
+Quiero recuperar dinero No puedo esperar tiempo Quiero devuelvan dinero productos tarjeta__label__0
+Cómo introducir dirección envío Cómo añado dirección envío__label__0
+Cómo introducir dirección envío Cómo cambio dirección envío__label__0
+Cómo pruebo identidad Cómo cancelo pedido__label__0
+Cómo puedo pagar información pago Cuándo puedo recibir información envío__label__0
+Cómo puedo revisar comentario Cómo puedo recibir reembolso__label__0
+Cómo extiende tiempo procesamiento Puedo extender tiempo procesamiento__label__0
+Cuál pedido El pedido Nulo Qué ocurre__label__0
+Cuál solución caso Cuál situación disputa__label__0
+Cuál solución caso Cuál información contacto__label__0
+Cuándo voy recibir dinero productos cancelados Cuándo recibiré reembolso si pedidos sido cancelados__label__1
+Dónde respuesta Dónde información disputa__label__0
+En cuántos días recibiré dinero si cancelo pedido Cuándo recibiré reembolso si cancelo pedido__label__1
+Existe forma pago puerta Cuál mejor forma contactar vendedor__label__0
+Existe forma pago puerta Hice compra tienda existe__label__0
+Los gastos envío pagados momento envío recepción producto Gastos envío devolución__label__0
+Por pago recibido menos pagamos El vendedor dice pago sido recibido después haber finalizado pedido Qué puedo hacer__label__0
+Por ahora dinero Por devuelven dinero__label__1
+Por envío tarda Por pago tarda ser procesado__label__0
+Por envío tarda Por tardan resolver disputa__label__0
+Por pude pagar tarjeta crédito Por puedo usar tarjeta crédito__label__1
+Por permitís engañen clientes Por piden guarde tarjeta__label__0
+Por vendedor envía producto responde El producto recibido bueno funciona puedo hacer__label__0
+Por vendedor envía producto responde El vendedor responde petición reembolso__label__0
+Puedo pagar tarjeta regalo Puedo pagar tarjeta regalo__label__1
+Qué ID usuario Por nivel usuario disminuido__label__0
+Qué hacer si vendedor estafando Qué puedo hacer si pedido congelado debido actividades vendedor__label__0
+Cómo pongo contacto vendedor Cómo contacto vendedor__label__1
+Cómo puedo presentar queja Necesito presentar disputa plazo agotado Qué puedo hacer__label__0
+Cambiar persona contacto Cómo puedo cambiar dirección recepción__label__0
+Cuándo recibiré reembolso después cancelar pedido Cuándo recibiré reembolso tras cancelar pedido__label__1
+Cuándo recibiré reembolso después cancelar pedido Cuándo aprobado reembolso cuándo recibiré__label__0
+Donde pedido favor Mi pedido cerrado No enviado__label__0
+El solicitud reembolso Cuál reclamación__label__0
+El solicitud reembolso El pedido cambiado después hiciera pago ocurre__label__0
+El pedido indica pagado pagué Ya pagado aparece hice__label__1
+El proveedor responde casos Cómo contacto equipo Gestión Casos__label__0
+El vendedor debe pagar gastos envío Tengo pagar costes envío servicio reparación__label__0
+El vendedor exige uso PayPal devolver dinero Esperé reembolso vendedor nunca respondió__label__0
+El vendedor dice cancele pedido devolverme dinero Cuánto tarda centro disputas devolverme dinero__label__0
+El vendedor dado número seguimiento corresponde pedido Hice pedido dieron ningún número seguimiento__label__0
+Acabo realizar pedido dijo transacción cerró entiendo Acabo pedir producto online puesto dirección correcta puedo hacer__label__0
+Acabo realizar pedido dijo transacción cerró entiendo Cómo puedo cancelar producto acabo hacer__label__0
+reembolso pendiente Cómo pido reembolso__label__0
+quisiera saber pasado disputa entiendo Tengo disputa pedido sido cerrada__label__0
+quiero borrar tarjeta credito No quiero enviar extracto tarjeta crédito__label__0
+Por favor hágame saber cancela pedidos Me pueden hacer descuento__label__0
+Por favor hágame saber cancela pedidos Cuánto dinero devolverán__label__0
+puedo localizar pedido Puedo editar pedido__label__0
+No llegado pedido Mi pedido llegado Los artículos dañados__label__0
+hola mire pagina sugeriste consigo cambiar euros pesos colaboras favor Por favor díganme cómo cambiar dirección entrega__label__0
+puedo abrir disputas cuenta desactivada seguridad Cómo puedo cerrar cuenta__label__0
+Cómo puedo recibir reembolso través Doku Cómo recibo reembolso través Maestro__label__0
+Qué quiere decir Guardar tarjeta página pago Transferencia bancaria Western Union aparecen métodos pago página pago__label__0
+Cómo consigo cupón Cómo elimino cupón__label__0
+Cómo consultar dónde pedido Dónde cupón__label__0
+Cómo puedo eliminar artículos lista deseos Compartir Lista Deseos__label__0
+Cómo puedo saber ID miembros Puedo contactar compradores__label__0
+Cómo puedo saber si enviado productos Cómo cancelo pedido si productos enviado__label__0
+Cómo puedo saber si enviado productos Cómo puedo ver mensajes enviado__label__0
+Cómo puedo saber si proveedor acepta depósitos Cómo saber si pedido cancelado__label__0
+Cómo reactivar cuenta Cómo cierro cuenta__label__0
+Cómo reactivar cuenta Cómo restauro cuenta__label__0
+Cómo solicito reembolso Cómo puedo conseguir reembolso__label__0
+Cúanto tiempo tarda verificación documentos Cuánto tiempo mostrarán productos vistos recientemente web__label__0
+Como puedo cancelar pedido proceso pago Cómo puedo cancelar pedido Pendiente pago__label__1
+Cuándo cancelará pedido Cuándo actualizará cantidad pedido después vendedor cambie__label__0
+Cuánto tiempo necesario poder recuperar dinero transacción fallida Cuánto tardarán devolverme dinero transacción fallida__label__1
+Cuánto tiempo tomará verificación pago Mi pedido congelado después verificación pedido debido vendedor siendo investigado__label__0
+Cuántos días faltan llegue Necesito confirmar mercancía recibida llegue__label__0
+En situación realizará reembolso Se devolverá cupón__label__0
+Hay algún error opciones pago Hay algún vendedor Norteamérica__label__0
+Hay algún error opciones pago Hay algún coste cancelación pedido__label__0
+Por pedido puede ser enviado país Por puede enviar pedido país__label__1
+Por descontado pago si hecho ninguna transacción He hecho pago duplicado error__label__0
+Por descontado pago si hecho ninguna transacción El vendedor notificado si hecho pago__label__0
+Por puedo usar tarjeta crédito Por aceptan tarjeta crédito__label__1
+Puedo conseguir producto llegue rápido Puedo hacer producto llegue rápido__label__1
+Puedo saber pasando disputa Cómo puedo saber si pedido viniendo__label__0
+Puedo saber pasando disputa Por pedido cerrado pago deducido__label__0
+Puedo saber pasando disputa Por cerrada disputa__label__0
+Qué debo hacer si paquete detenido Aduana El paquete manos aduana cómo puedo hacer trámite__label__1
+Qué pasa si vendedor acepta rechaza disputa plazo indicado Qué pasa si vendedor aprueba solicitud cancelación__label__0
+Qué significa Error dirección envío Qué significa Pendiente envío vuelta__label__0
+Cómo abrir disputa pedido finalizado Cómo abrir disputa pedido cerrado__label__0
+Cómo ponerse contacto proveedor si dirección correo electrónico funciona Cómo contacto equipo Gestión Casos__label__0
+Cómo utilizar reembolso pedido Cuándo recibiré reembolso pedido__label__0
+Cancelar pendiente pago Les envié transferencia aún pone pendiente pago__label__0
+Cuál coste envío China Cuál nombre compañía envío__label__0
+Cuándo voy recibir reembolso pedido cancelado Cuándo voy recibir pedidos__label__0
+El código seguimiento incorrecto puedo saber dónde pedido El código seguimiento incorrecto así puedo saber dónde pedido__label__1
+El proveedor ayuda resolver reclamación Cómo compruebo reclamación__label__0
+El proveedor online Por pedido congelado pesar proveedor envió__label__0
+El proveedor online Dónde respuesta proveedor__label__0
+El vendedor acordó devolver dinero cómo puedo obtenerlo Uno pedidos cancelado vendedor Cómo puedo recibir dinero vuelta__label__0
+El vendedor acordó devolver dinero cómo puedo obtenerlo El producto sido devuelto vendedor Cuándo puedo recibir dinero__label__0
+El vendedor responsable disputa Cómo cambio motivo disputa__label__0
+El vendedor extiende plazo entrega El vendedor pidió confirmase entrega enviarme producto__label__0
+Por dado información envío pedido Por ID seguimiento dado falsa__label__0
+Por dado información envío pedido Por información seguimiento paquete__label__0
+Qué formas pago Qué modo haga pago__label__0
+Qué formas pago Quiero cancelar pedido vendedor envíó todas formas__label__0
+Abrí disputa acordaron realizar reembolso dinero Abrí disputa vendedor aceptó__label__0
+Abrí disputa acordaron realizar reembolso dinero He abierto disputa pedido proveedor rechazado petición reembolso__label__0
+Acepté disputa accidentalmente Cómo cancelar disputa__label__0
+Ayuda saber dónde pedido He cancelado pedido Dónde dinero artículos__label__0
+Ayuda saber dónde pedido Dónde sede__label__0
+aprobarán apelación Mi apelación sido aceptada puedo comprar vez__label__0
+aprobarán apelación Necesito verificar email creo cuenta__label__0
+hola puedo pagar pedidos Puedo pagar pedidos combinados__label__0
+hola enviado paquete dirección puedo abrir disputa cuenta desactivada puedo hacer Cómo puedo hacer pedido si cuenta desactivada__label__0
+hola enviado paquete dirección puedo abrir disputa cuenta desactivada puedo hacer Mis puntos privilegio añadido cuenta Qué puedo hacer__label__0
+pues problema creado cuenta correo electronico correcto No acepta pago Western Union La razón número cuenta correcto__label__0
+quiero pedido vuelva curso Qué significa El proveedor enviado parcialmente pedido__label__0
+veras pedido llegado orden aparece completada nunca recibi producto Ya realicé pago aparece pagado Qué hago__label__0
+Cómo comprar mayor Cómo compro mayor__label__1
+Cómo comprobar envío Cómo puedo comprobar reclamación__label__0
+Cómo conseguir reembolso si producto llega Si pido ahora UPS cuántos días llega artículo país__label__0
+Cómo elegir tamaño color Cómo puedo usar cupón código cupón__label__0
+Cómo pedido aprueba Quiero reembolso Cómo hago disputa resuelva__label__0
+Cómo pedido aprueba Cuándo actualizará cantidad pedido después vendedor cambie__label__0
+Cómo pagar tarjeta Visa Estoy intentando pagar tarjeta Visa deja pagar__label__0
+Cómo puedo activar cupón registro Cómo registro cuenta vendedor__label__0
+Cómo puedo cambiar país Cómo puedo cambiar idioma español inglés__label__0
+Cómo puedo cambiar dirección email registro Por favor díganme cómo cambiar dirección entrega__label__0
+Cómo puedo cerrar sesión cuenta Cómo cierro sesión cuenta__label__1
+Cómo puedo comprobar si dirección entrega correcta Cómo cambio dirección entrega__label__0
+Cómo puedo comprobar si dirección entrega correcta Cómo puedo corregir dirección email__label__0
+Cómo puedo ganar puntos conseguir cupones Cómo puedo ganar cupones__label__1
+Cómo puedo hacer cambios perfil Cómo puedo editar perfil__label__1
+Cómo puedo hacer cambios perfil Cómo edito perfil miembro__label__1
+Cómo puedo hacer cambios perfil No puedo encontrar perfil miembro__label__0
+Cómo puedo hacer cambios perfil No puedo iniciar sesión cuenta Qué puedo hacer__label__0
+Cómo puedo hacer cambio Cómo puedo hacer pedido combinado__label__0
+Cómo puedo obtener reembolso Envié producto nuevo Puedo transferir reembolso nuevo pedido__label__0
+Cómo puedo obtener reembolso Envié producto nuevo Mi pedido cancelado Cómo puedo hago nuevo__label__0
+Cómo puedo reanudar pedido Cómo puedo hacer pedido si cuenta deshabilitada__label__0
+Cómo recibo número seguimiento pedido Dónde puedo ver número seguimiento pedido__label__0
+Cómo recibo número seguimiento pedido Cómo obtener número seguimiento__label__1
+Cómo responder reclamación Cómo cancelar reclamación__label__0
+Confirmar recepción pedido Por fecha límite confirmar pedido recibido cambiado__label__0
+Cuál solución disputa Quiero aceptar solución reembolso parcial__label__0
+Cuál solución disputa Cuál reclamación__label__0
+Cuáles casos típicos actividades fraudulentas Qué puntos privilegio__label__0
+Cuáles pagos disponibles Los jerséis auténticos__label__0
+Cuáles pagos disponibles Cuánto gastos transferencia bancaria__label__0
+Cuándo podré conseguir reembolso completo Cuánto tarda reembolso completo__label__0
+Cuándo podré conseguir reembolso completo Cuándo recibiré reembolso tras abrir disputa__label__0
+Cuándo recibiré reembolso pedidos sido cancelados Cuándo recibiré reembolso si pedidos sido cancelados__label__1
+Cuándo voy saber situación artículos enviados Pueden enviar artículos dirección empresa mensajería__label__0
+Cuánto tardará proveedor procesar pedido Cuánto tardará pedido ser entregado__label__0
+Cuánto tardará proveedor procesar pedido Si pido hoy cuánto tiempo tardará llegar país__label__0
+Cuánto tardará proveedor procesar pedido Cuánto tardará llegar aquí__label__0
+Cuánto tiempo puede tardar vendedor aprobar cancelación Cuánto tardará vendedor aprobar cancelación pedido__label__1
+Dónde producto Dónde producto__label__1
+Dónde puedo escribir queja No puedo escribir mensajes__label__0
+Debo hacer conseguir reembolso Cómo puedo conseguir reembolso__label__1
+Es posible pagar tarjeta débito No puedo pagar tarjeta débito__label__0
+Hay límite máximo transacciones Cuál límite cuantía máxima transacción__label__0
+Mi pedido sido cancelado cómo vuelvo realizar pedido Mi pedido sido cancelado Cómo puedo repetirlo__label__1
+Mi pedido va enviar mar aire Por cancela pedido__label__0
+Mi pedido va enviar mar aire Por cierra pedido__label__0
+Por cancelado pedido Por pedido pone envío cancelado__label__0
+Por cuenta congelada Por página producto disponible__label__0
+Por cobrado dos veces Por cobran dos veces__label__1
+Por aceptada dirección envío Por tiempo envío tan largo__label__0
+Por sido cancelado pedido Por sido reembolsado pedido después cancelado__label__0
+Por sido reembolsado pedido después cancelado Por dice pedido sido cerrado__label__0
+Por recibido reembolso Por recibido reembolso pedido__label__1
+Por recibido reembolso Por recibido email nueva contraseña__label__0
+Por puedo cargar producto Por puedo encontrar producto tienda__label__0
+Por puedo comprar productos Por puedo comprar productos__label__1
+Por puedo comprar productos Por puedo ver últimos pedidos__label__0
+Por verifica pago Por ajustado precio__label__0
+Por tiempo reembolso Qué debería hacer recibir reembolso__label__0
+Puedo hacer dropshipping Puedo hacer dropshipping__label__1
+Puedo pagar través PayPal Puedo pagar vía PayPal__label__1
+Qué número teléfono proveedor Pueden darme número teléfono atención cliente__label__0
+Quién recibe pago Western Union Por fallado pago Western Union__label__0
+Se puede pagar tarjeta monedero Walmart Puedo usar tarjeta Walmart__label__1
+Se puede pagar tarjeta monedero Walmart Puedo pagar tarjeta banco chino__label__0
+Buenos días llevo dias tratando navegar pagina problemas varios notebook PC No puedo cambiar pagina ver productos comprados tampoco puedo confirmar recepción pedido página cap Quiero cambiar dirección envío pedido espera pago puedo hacer__label__0
+Cómo puedo transferir dinero cuenta Puedo transferir pago pedido cerrado pedido__label__0
+Cómo quejarse vendedor Cómo puedo dejar mala nota vendedor__label__0
+Cómo quejarse vendedor No puedo enviar imágenes vendedor__label__0
+Cambiar razón cancelación pedido Cómo puede vendedor cambiar suma pedido__label__0
+escribe derecha ingles Mi pedido entrega domicilio__label__0
+Confirmé recibido pedido error Confirmé pedido recibido error__label__1
+Confirmé recibido pedido error Por recibido error El número cuenta bancaria válido__label__0
+Cuándo voy recibir reembolso Me gustaría saber cuándo voy recibir reembolso__label__1
+Cuánto tiempo tarda centro disputas devolverme dinero El pedido cancelado cuánto tardará dinero volver tarjeta crédito__label__0
+empresa envio local Qué Lista Deseos__label__0
+Dejar medidas caja comentarios proveedores Es correcto Al comprar mercancías diferentes vendedores pedidos exportarán misma caja__label__0
+Dejar medidas caja comentarios proveedores Es correcto Puedo dejar valoraciones proveedores__label__0
+dentro carro compras aparecen productos comprados Mis compras enviados número casa__label__0
+El número seguimiento puede localizar envío Denos número seguimiento__label__0
+El pedido sido congelado justo después pagar Por sido reembolsado pedido después cancelado__label__0
+El producto mismo anuncio El producto compré funciona__label__0
+El seguimiento pedido funciona Mi número seguimiento nunca funciona__label__1
+El vendedor dice enviará producto Intento pagar dice sistema disponible__label__0
+El vendedor dice posible enviarme producto No entiendo bien inglés posible hablar ruso__label__0
+El vendedor informa código seguimiento encuentra El código seguimiento escrito web mal__label__0
+El vendedor honesto El vendedor honesto__label__1
+El vendedor honesto Quiero ayuda encontrar proveedor honesto__label__0
+El vendedor confiable Recibí email aviso vendedor sospechoso actividad fraudulenta__label__0
+El vendedor enviado productos He devuelto productos pedido sido completado__label__0
+El vendedor enviado productos Cómo cambio valoración vendedor productos__label__0
+En tienda piden mas dinero aunque promocion articulos alegando ganan dinero quieren pague varios euros encima valor promocion TOPVIP Store No entendí forma dinero reembolsado__label__0
+Cómo puedo obtener reembolso Envié producto nuevo Cómo puedo obtener factura__label__0
+Cómo recuperar cupón Cómo uso cupón pedido__label__0
+Cuál ahora Cuál cupón miembros VIP__label__0
+Cuándo puedo recibir reembolso En cuánto tiempo puedo recibir reembolso__label__0
+Cuánto tarda envío país Cuánto tarda llegar país__label__0
+Dónde botón Contactar Ahora Dónde botón Contactar ahora__label__1
+En cuánto tiempo puedo recibir pedido Puedo recibir pedido viernes__label__0
+Por respuesta reclamación Por progresa reclamación__label__0
+Qué Pendiente Pago Qué Pendiente recibir__label__0
+Se realizará envío separado artículos carrito van llegar mismo tiempo Quiero preguntar si vendedores China vendedores__label__0
+Alguien hecho transacción tarjeta crédito Estoy intentando pagar tarjeta Visa crédito siempre dice fallado pago__label__0
+aun recibo reembolso Pagué vía Western Union cómo recibo reembolso__label__0
+Boton seguimiento funciona No recibí número seguimiento__label__0
+contacto vendedor Cómo contacto equipo atención cliente__label__0
+El vendedor cerrao disputa El vendedor aceptó términos disputa reembolso__label__0
+vendedor cancelado envio Pagué pedido cancelado El vendedor devuelto dinero__label__0
+hola vendedor envió paquete dirección incorrecta He introducido dirección entrega incorrecta__label__0
+La mercancía recibida acordada El vendedor enviado mercancía número equivocado__label__0
+hice reclamo bloqueo bandeja mensajes Hice pedido subieron precio repente__label__0
+Me pone pedido cerrado debo apelar El pedido cerrado sistema debido vendedor sospechoso__label__0
+Me pone pedido cerrado debo apelar En pedido pone pagado puedo ver pago cuenta banco__label__0
+Mi nombre Francisco queria saber si existen inconvenientes envio china Olvidé poner nombre dirección envío__label__0
+Necesito hablar agente Necesito hablar persona__label__1
+No recibido mercancía tiempo disputa cerró puedo hacer La disputa cerrado automáticamente puedo hacer__label__0
+puedo pagar pedido hace mes No puedo pagar pedido puedo hacer__label__1
+puedo pagar pedido hace mes No puedo pagar pedido tarjeta__label__1
+quiero hablar comercial Quiero contactar humano__label__1
+consulta apelacion sale aprobada Es decir ahora si puedo pagar pedidos No puedo encontrar pedido No sale__label__0
+buenas tardes Me abrió disputa vendedor debido mercancía compré defectuoso solicitud desaparecido lista siquiera vuelta Me gustaría pagar mitad tarjeta crédito mitad tarjeta crédito__label__0
+creo estafa vendedor Qué puedo hacer si puntuación vendedor fiable__label__0
+Cuando puedo hablar humano Me gustaría hablar agente atención cliente__label__1
+vendedor cancelo pedido Envió vendedor pedido__label__0
+Hola No recibí dinero reembolso pedido cancelado Mi pedido cancelado quiero dinero vuelta__label__1
+protección comprador finalizó Qué Protección Comprador__label__1
+protección comprador finalizó Tengo protección comprador__label__0
+Me gustaría saber cuánto van tardar ponerse contacto conmigo disputa q abierto Me van dar información envío__label__0
+Queria consultar status encuentra compra hice recien salió cartel error indicando compra pudo procesar volver intentar pago verifique si pago efectuó El vendedor pidió confirmase entrega enviarme producto__label__0
+quiero comunicarme asesor Quiero pagar débito__label__0
+Cómo cambiar email cuenta Quiero cambiar dirección email vieja hackeada cómo puedo hacerlo__label__1
+Cómo cambiar dirección recepción Cómo puedo cambiar dirección recepción__label__1
+Cómo cambiar dirección recepción Confirmé error recepción artículos Cómo cambio__label__0
+Cómo cambiar dirección Quiero cambiar dirección__label__1
+Cómo hago indicar online Cómo hago obtener información pedido__label__0
+Cómo hago indicar online No satisfecho servicio recibido Cómo puedo dejar valoracion__label__0
+Cómo ponerse contacto equipo disputas Cómo contacto equipo disputas__label__1
+Cómo puedo cambiar dirección email registro Cómo ocultar dirección email__label__0
+Cómo puedo cambiar dirección email registro Necesito cambiar dirección email__label__1
+Cómo puedo cancelar compra pagado Cómo puedo probar pagado transferencia bancaria__label__0
+Cómo puedo cancelar compra pagado He pagado compra ponía pago__label__0
+Cómo puedo comprobar si dirección entrega correcta Cómo puedo comprobar si dirección correcta envío__label__1
+Cómo puedo consultar pedido Cómo sé cuál pedido__label__1
+Cómo puedo encontrar productos vendedores anteriores Cómo puedo eliminar pedidos anteriores__label__0
+Cómo puedo encontrar productos vendedores anteriores Cómo puedo encontrar valoración dejé__label__0
+Cómo puedo obtener reembolso Puedo obtener muestras__label__0
+Cómo puedo saber si enviado productos Qué hacer si vendedor enviado productos servicio mensajería incorrecto__label__0
+Cómo puedo saber si realizado pago Quiero saber si proveedor recibido pago__label__0
+Cómo puedo saber si proveedor acepta depósitos Cómo puede saber si vendedor legítimo__label__0
+puedo tener propia tienda Si uso tarjeta crédito puedo tener protección comprador__label__0
+Cómo extiende tiempo procesamiento Por puedo extender tiempo procesamiento__label__0
+Cómo puede encontrar número identificación producto Quiero saber cómo encontrar producto__label__0
+Cómo utilizar garantía Cómo uso Servicio Garantía__label__1
+Cuándo van enviar productos Mis productos funcionan__label__0
+Cuándo cancelado pedido Cuándo aprobado reembolso cuándo recibiré__label__0
+Cuándo reembolso Cómo compruebo si reembolso__label__0
+Cuanto tiempo devolver paquete Devolver artículo defectuoso__label__0
+Cuántos días faltan llegue Pueden decirme cuántos días suele tardar completarse reclamación__label__0
+Cuántos días faltan llegue Hasta completemos verificación podrá hacer ningún pedido__label__0
+Dónde debo ir seguir pedido Qué debo hacer si pago WebMoney fallado__label__0
+Dónde debo ir seguir pedido Puedo cambiar valoración pedido__label__0
+Dónde debo ir seguir pedido No puntuación valoración pedido__label__0
+Dónde producto Está stock producto__label__0
+Dónde puedo ver Centro Quejas Dónde puedo ver cuenta__label__0
+Dónde puedo ver respuesta proveedor Sin respuesta proveedor tras consulta__label__0
+Dónde puedo ver respuesta proveedor Dónde ver código cupón hago pedido__label__0
+El número pedido número seguimiento Es mismo número pedido número seguimiento__label__1
+El número pedido número seguimiento El número seguimiento funciona__label__0
+Hay algún error opciones pago Hay algún coste cancelación pedido__label__0
+Hay alguna forma pagar metálico Hay alguna forma puedas combinar pedidos diferentes vendedores envío__label__0
+Los productos pedido envían juntos separados Pago después recibir productos__label__0
+Mi tarjeta crédito debe ser internacional comprar página Para sirve página__label__0
+Podeis ayudarme seguir pedido Pueden ayudarme hacer seguimiento pedido__label__1
+hacen cargo pedido tarjeta llega ningún correo confirmación venta aparece hecho algún pedido Por cobrado pedido persona__label__0
+Por puedo dejar comentarios pedido Por puedo dejar valoración pedido__label__1
+Por aprobó pago Por pago verificado__label__1
+Por devuelve pedido Por cerró pedido__label__0
+Por devuelve pedido Por pedido muestra cuenta__label__0
+Puedo pagar metálico Cómo puedo pagar pedidos solo pago__label__0
+Puedo tener recibo pago Cómo recibo reembolso Pago SMS__label__0
+Qué comentarios di Quiero cambiar comentarios__label__0
+Qué debo hacer si paquete detenido Aduana El paquete manos aduana cómo puedo hacer trámite__label__1
+Qué pasa si vendedor envía pedido finalizar tiempo procesamiento Qué pasa si vendedor envía pedido tiempo procesamiento__label__1
+si intento nuevamente cobrara doble Qué hacer si página carga__label__0
+Voy pagar sólo costo productos Cómo cambio valoración vendedor productos__label__0
+colombia empresa llegan envios Pueden enviar artículos dirección empresa mensajería__label__0
+realiza reembolso Pueden darme página web hacer seguimiento pedido__label__0
+realiza reembolso Se aplica automáticamente cupón__label__0
+direccion dijeron El vendedor dijo podía reabrir disputa__label__0
+fecha recibo reembolso dinero Mi dinero sido retirado banco recibo confirmación__label__0
+hora pagar indica ponga número tarjeta saldo Por favor denme número línea ayuda__label__0
+nombre pongo pago Cuál nombre compañía envío__label__0
+parte contestar preguntas seguridad Cómo ocuparse tasas__label__0
+A pesar haber leído preguntas resuelven dudas entiendo bien pedido El vendedor dice pago sido recibido después haber finalizado pedido Qué puedo hacer__label__0
+A dirección electrónica puedo enviar documentos verificación No puedo enviar mensajes__label__0
+refiere condición Reformado lugar nuevo No opción talla puedo dejar mensaje lugar__label__0
+correo escribo poder exponer si caso Que escribo número cuenta formulario Western Union__label__0
+correo escribo poder exponer si caso Cómo escribo reseña__label__0
+A correo mando imagen No puedo subir imagen JPEG__label__0
+hora encuentran trabajando atencion cliente No puedo enviar email servicio atención cliente__label__0
+vez indicó hiciera reporte Esta primera vez hago pedido__label__0
+Aún recibido reembolso Aún recibido número seguimiento__label__0
+Aún recibido reembolso No recibido reembolso__label__1
+abri disputa movil recibi reinicia El vendedor producto pagado__label__0
+abri disputa hace dias Abrir disputa hace mes aún esperando respuesta__label__1
+Abri disputa finalizada recibido reembolso No recibido reembolso después finalizase disputa__label__1
+abri disputa llegue acuerdo vendedor cumplido hago Abrí disputa obtuve respuesta vendedor__label__0
+abru disputa recibí producto roto No recibí respuesta pedido disputa escalada__label__0
+abru disputa recibí producto roto He abierto disputa asunto sido seguido bastante tiempo__label__0
+ACA EN CORREOS DE CHILE ME INFORMARON QUE FUE DEVUELTO A CHINA Qué pasa si artículo devuelto altos impuestos aduanas__label__0
+Acabo hacer pedido dónde conseguir recibo Quiero hacer seguimiento pedido__label__0
+ACABO DE REALIZAR LA TRANSFERENCIA INTERBANCARIA DE UN PEDIDO Cómo puedo cancelar producto acabo hacer__label__0
+Acabo realizar pago Debería contactar vendedor realizar pago__label__0
+acabo recibir correo electronico orden sido cancelada falta pago Cómo puedo cancelar producto acabo hacer__label__0
+Accidentalmente presione botón confirmar pedido productos recibido Cómo puedo recibir información seguimiento productos pedido__label__0
+aceptáis tarjeta ocean pay debit Aceptan tarjeta Discover__label__0
+aceptar rechazar oferta vendedor La protección comprador servicio dado automáticamente tarifa__label__0
+Acerca cuenta algun problema Tengo problema seguimiento envío__label__0
+acorde vendedor reembolso hecho Qué pasa si tiempo acaba vendedor enviado pedido__label__0
+Actualmente disputa abierta verdad pasos seguir partir ahora Tengo tarjeta crédito Business acepta__label__0
+ademas pequeño culo podia caber articulo comprado Vivo China Es gratuito envío__label__0
+ademas solicitan cantidad informacion privada puedo suministrar seguridad La cantidad factura misma pedidos__label__0
+entro hacer pedido anillos No puedo encontrar botón hago seguimiento pedido__label__0
+agente personal favor Cargando Por favor espere__label__0
+ah okay osea problema general Tengo problema envío__label__0
+ahi numero pedido puedes ayudarme Cómo hago pago reembolso pedido__label__0
+ahora debo salir `puedo continuar Cuánto debo pagar impuestos tasas aduanas__label__0
+ahora debo salir `puedo continuar Cómo puedo hacer pedido quiero pagar ahora__label__0
+Ahora vendedor responde mensajes Qué hacer vendedor responde emails__label__0
+ahora vuelvo preguntar No enviando producto ahora__label__0
+Ahora aparecen pedidos volverlos realizar vez transito Por veo pedidos página web__label__0
+ahora llegan mensajes pedidos retenidos aduana No recibido productos Retenidos Aduana__label__1
+Ahora pide contacte ustedes cambie opcion quiero producto Cuando verdad Ver mensajes enviados recibidos Mis compras enviados número casa__label__0
+ahora recibo mensaje diciendo siguiente Por recibo emails diciendo pedido cerrado__label__0
+Ahora correo electrónico decía pedido sido cancelado pagado He recibido email diciendo pedido sido cancelado falta pago__label__1
+ahora veo cobro hecho dos tarjetas Si cancelo pedido hecho devuelven dinero__label__0
+ahora veo cobro hecho dos tarjetas En pedido pone pagado hecho__label__0
+ahora llegaron comprobantes puedo acceder cuenta cree usuario entonces clave acceso Intento acceder cuenta deja__label__1
+Al escribir NOMBRE APELLIDOS rechaza ser INGLES El vendedor rechaza petición reembolso__label__0
+Al final ayer transporte coche grúa taller simple diagnosis multimarca archivos enviado colgados httptinypiccom Realizo pedido ser enviado FedEx proveedor envía China Post__label__0
+Al final ayer transporte coche grúa taller simple diagnosis multimarca archivos enviado colgados httptinypiccom Cuando recibo email pedido hago clic dice puedo verlo__label__0
+final cancelar pedido gracias No puedo ver pedido pagado__label__0
+final cancelar pedido gracias Necesito cancelar pedidos hecho__label__0
+Al final pasarán ofertas puedo realizar pedido sistema pago avanza Ya comprado veces tarjeta problema veo medida pasa día van bajando existencias disponibles He pedido cosas quiero saber cuándo van enviar__label__0
+momento comprar producto deja dice apelar Intento registrarme dice servicio disponible__label__0
+Al pagar tarjeta credito dice error pago Me gustaría pagar mitad tarjeta crédito mitad tarjeta crédito__label__0
+parecer confusion vendedor Me gustaría enviar consulta compras vendedor__label__0
+Al poner nombre calle indica debo ponerlo inglés No puedo cambiar nombre El nombre calle mal Qué puedo hacer__label__1
+realizar compra deja pagar ninguna tarjeta nueva agregue Puedo pagar tarjeta brasileña__label__0
+realizar compra deja pagar ninguna tarjeta nueva agregue No puedo pagar tarjeta__label__1
+Al usar cupón pagar cancela solo pedido Por dio error hacer pedido aquí__label__0
+ALGUIEN ME PUEDE LLAMAR PARA HABLAR DE MIS PEDIDOS QUE NO APARECEN EN NINGUN SITIO Tienen número contacto pueda llamar hablar disputa favor__label__0
+alguien puede ayudarme deseo saber sucede ahora apelacion aprobada enviaran pedido perdi oferta Me gustaría productos enviaran nueva dirección__label__0
+alguien puede ayudarme deseo saber sucede ahora apelacion aprobada enviaran pedido perdi oferta No hice pedido Alguien usó tarjeta__label__0
+alguien puede hablar conmigo Se puede poner Equipo Seguridad Cuentas contacto conmigo__label__0
+alguien puede hablar conmigo Pueden comunicarse conmigo ruso__label__0
+Alguien usa dirección correo electrónico Quiero enviar Lista Deseos alguien__label__0
+Algun agente persona Qué hago si persona sigue cambiando precio__label__0
+Algun agente persona Se hecho transacción tarjeta crédito parte persona Qué puedo hacer__label__0
+algun problema camisetas futbol sd eibar madrid barcelona Hay problema cuenta__label__0
+alguna persona puede atenderme Por cobrado pedido persona__label__0
+Algunas opciones funcionan Cómo funcionan eventos__label__0
+Algunas opciones funcionan Cómo funcionan cupones descuento__label__0
+Algunas opciones funcionan No transferencia bancaria opciones pago__label__0
+amplie tiempo proteccion sigue enviarlo Me cobrado pedido sigue pendiente pago__label__0
+Anoche hablando chica llama kayla Dice vende país__label__0
+anoche hice pedido cancele Hice pedido cerraron__label__0
+ANTERIORMENTE YA LO HE HECHO LLAME A MI BANCO Y ME DICE QUE TODO ESTA NORMAL PERO ME SALE NOSE PUEDE REALIZAR EL PAGO Si cancelo pedido hecho devuelven dinero__label__0
+buenos dias eva Debería confirmar productos lleguen__label__0
+decia tenia permiso entrar ahora resulta si entrado pagina Si congelan pedido hacer devuelvan dinero__label__0
+Antes si podia verdad Si pido varios vendedores diferentes pedidos enviarán juntos__label__0
+Antes beneficios cuenta ahora Por puesto cosas Cesta ahora ido__label__0
+Antes lista deseos larga Cómo añado productos Lista Deseos__label__0
+Antes vivia China cuenta identificado país China Quiero productos envíen agente China__label__0
+Antes vivia China cuenta identificado país China Quiero enviar producto China puedo encontrar lista países__label__0
+anule pedido recibido reembolso tarjeta No recibido reembolso pedido sido cancelado__label__1
+anule pedido recibido reembolso tarjeta Pedido cancelado vendedor recibido dinero__label__0
+Aparece cerrado devuelto dinero He pagado pedido pago éxito cobraron dinero__label__0
+APARECE COMO ORDEN ENTREGADA PERO A MI NO ME HAN ENTREGADO NADA QUE HAGO' Dicen enviado email sé adónde__label__0
+aparece devolviendo pago quiero productos trato apelar logro adjuntar PDF info piden Los productos recibidos dejaron funcionar vendedor responde__label__0
+aparece mensaje error Necesito pagar pedido sigo recibiendo mensaje error__label__1
+Aparece tiburón medio carretera Quiero trabajo compañía__label__0
+Aparece tiburón medio carretera Por pedido aparece disputa cerrada__label__0
+Apelación tarjeta crédito Cómo pago tarjeta crédito__label__0
+aque oras atiende persona Hice compra respondió__label__0
+asi realice hace cargo productos siguen apareciendo pendientes manda error El proveedor sube precio productos requiere pago extra__label__0
+asi apelacion curso Reembolsar cuenta diferente__label__0
+asi apelacion curso Cuánto tarda terminar disputa__label__0
+Atención cliente funciona No puedo enviar email servicio atención cliente__label__0
+atencion cliente personal porfavor Teléfono atención cliente__label__1
+atenderme ejecutivo linea Cómo dejo mensaje pedido__label__0
+AUN ASI NO PUEDO REALIZAR MI COMPRA Cómo pueden asegurar compra__label__0
+aun estan cancelados Pago productos pido entregan__label__0
+aun espero respuesta vendedor Cómo puedo denunciar mala conducta vendedor__label__0
+aun recibido reembolso pedidos No recibido reembolso puedo hacer__label__1
+aun recibido reembolsos He recibido artículos cómo confirmarlo__label__0
+Aun recibido respuesta verificacion pago realizado hoy hace ocho dias realice Mi pedido enviado recibido__label__0
+aun reembolsado dinero despues resolucion disputa pasado casi mes Abrir disputa hace mes aún esperando respuesta__label__0
+aun respecto producto recibido He recibido producto defectuoso__label__0
+Aunque sigo interesado producto tras siete meses sigo recibirlo creo mejor reembolso Por sigo recibiendo error intento pagar cosas__label__0
+automaticamente app utilizado cupones realizarlos pudiera quitarlos He cambiado tarjeta usé pedido__label__0
+Aviso No alcanzado acuerdo vendedor El importe reembolso propuesta anterior Presentar recurso Si satisfecho resultado disputa atención prestado puedes pres Dónde puedo ver resultado disputa__label__0
