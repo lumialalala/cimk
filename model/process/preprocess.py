@@ -10,7 +10,8 @@ from collections import Counter
 
 class preprocess(object):
     def __init__(self, conf):
-        self.file_train = conf["file_train"]
+        self.file_train1 = conf["file_train1"]
+        self.file_train2 = conf["file_train2"]
         self.file_test = conf["file_test"]
         self.file_ft_train = conf["file_ft_train"]
         self.file_ft_test = conf["file_ft_test"]
@@ -24,8 +25,8 @@ class preprocess(object):
         final = ' '.join(text_list)
         return final
 
-    def load_train_data(self):
-        file_train = self.file_train
+    def load_train_data1(self):
+        file_train = self.file_train1
         f = codecs.open(file_train, "r", "utf-8")
         sen = []
         label_list = []
@@ -46,6 +47,28 @@ class preprocess(object):
         counter = Counter(label_list)
         print("counter:",counter)
 
+    def load_train_data2(self):
+        file_train = self.file_train2
+        f = codecs.open(file_train, "r", "utf-8")
+        sen = []
+        label_list = []
+        ft_train = self.file_ft_train
+        ft_train = codecs.open(ft_train, "a", "utf-8")
+        for line in f:
+            line_list = line.split("\t")
+            sen1 = line_list[1]
+            sen2 = line_list[3]
+            sen = sen1 + ' ' + sen2
+            sen = self.clean_str(sen)
+            label_list.append(line_list[4])
+            label = " __label__" + str(line_list[4]).strip()
+            final = sen + label + "\n"
+            ft_train.write(final)
+        ft_train.close()
+        f.close()
+        counter = Counter(label_list)
+        print("counter:", counter)
+
     def load_test_data(self):
         file_test = self.file_test
         f = codecs.open(file_test, "r", "utf-8")
@@ -63,8 +86,9 @@ class preprocess(object):
         f.close()
 
     def process(self):
-        self.load_train_data()
-        #self.load_test_data()
+        self.load_train_data1()
+        self.load_train_data2()
+        self.load_test_data()
 
 
 

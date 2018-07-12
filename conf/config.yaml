@@ -1,4 +1,5 @@
-file_train: ../../data/cikm_spanish_train_20180516.txt
+file_train1: ../../data/cikm_spanish_train_20180516.txt
+file_train2: ../../data/cikm_english_train_20180516.txt
 file_test: ../../data/cikm_test_a_20180516.txt
 file_ft_train: ../../data/v1.0/ft_train.txt
 file_ft_test: ../../data/v1.0/ft_test.txt

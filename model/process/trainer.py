@@ -10,11 +10,11 @@ class Trainer(object):
         for eachline in ft_test:
             eachline = eachline.strip()
             re = model.predict(eachline, k=2)
-            print(eachline, re)
+            labels = re[0]
+            probas = re[1]
             for i in range(0, 2):
-                if re[0][i][0] == '__label__1':
-                    score = re[0][i][1]
-                    y_pre = '1'
-                    result = str(score) + '\n'
+                if labels[i] == '__label__1':
+                    score = probas[i]
+                    result = str(score)+"\n"
                     output.write(result)
         output.close()
