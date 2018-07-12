@@ -6,14 +6,13 @@ class Trainer(object):
 
     def test_model(self, model):
         output = open(self.file_re, "w")
-        output.write("_id,context,y_true,y_pre,score")
         ft_test = open(self.file_ft_test)
         for eachline in ft_test:
             eachline = eachline.strip()
             re = model.predict(eachline, k=2)
             print(eachline, re)
             for i in range(0, 2):
-                if re[0][i][0] == '1':
+                if re[0][i][0] == '__label__1':
                     score = re[0][i][1]
                     y_pre = '1'
                     result = str(score) + '\n'

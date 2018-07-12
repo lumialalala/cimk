@@ -33,8 +33,8 @@ class preprocess(object):
         ft_train = codecs.open(ft_train, "w", "utf-8")
         for line in f:
             line_list = line.split("\t")
-            sen1 = line_list[1]
-            sen2 = line_list[3]
+            sen1 = line_list[0]
+            sen2 = line_list[2]
             sen = sen1 + ' ' + sen2
             sen = self.clean_str(sen)
             label_list.append(line_list[4])
