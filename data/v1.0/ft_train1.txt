@@ -1,0 +1,1400 @@
+I have not been able to pay with my card what should I do I can not pay for my order with my card __label__1
+Why does it appear not paid when the payment already been deducted on my card I paid by bank transfer but the payment not been received __label__0
+When will I receive my refund if I pay by credit card When will I receive the refund if I cancel my order __label__0
+What will happen after opening dispute What will happen after I have sent my Warranty Service request __label__0
+The product I received does not correspond with the description What I can do I received product that does not work __label__0
+Why my order closed Why is my order closed by rejected Order __label__0
+Why can not I place an order Can I cancel an order paid in advance __label__0
+Why is my payment incorrectly deducted Why is my payment incorrectly deducted __label__1
+How can I pay with my credit debit card I can not pay for my order with Visa debit card what can I do __label__0
+Why is my order in verification after payment At what stage is my order __label__0
+How can I receive refund with my credit card How do I pay with my credit card __label__0
+How can I receive refund with my credit card I can not receive money on my credit card __label__0
+How can I receive refund with my credit card Can I make payments by credit card __label__0
+How can I pay through Mercado Pago Can I send check as method of payment __label__0
+The product received is not good it does not work what can I do What can I do if the ordered product is not available __label__0
+Can I change the details of the order size shipping etc What are the details of the product __label__0
+Can I change the details of the order size shipping etc Can I change my shipment to free shipping __label__0
+What is Buyer Protection What is Buyer Protection __label__1
+How to pay the order by Bank Transfer How do we proceed to pay by bank transfer __label__1
+Can I cancel presale order Can I cancel paid order __label__0
+The name or password of your account is incorrect What is the IBAN number of the account __label__0
+How do I change my email address How do I change my email address __label__1
+Why not my order been paid I have paid and my order been canceled by email __label__0
+How to recover coupon I have coupon how do I use it in my new order __label__0
+Why do I get an error when trying to pay What can I do if I have placed an order by mistake __label__0
+Why the payment been deducted twice Why my payment been made twice __label__1
+I have not received the refund I have received both the merchandise and the full refund __label__0
+How can I combine several orders in single payment Can I combine messages from different orders __label__0
+How do I set my delivery address I have entered an incorrect delivery address __label__0
+How can I confirm the delivery once I have received my order Confirm received order __label__1
+How can I report to seller product How to report trademark infringement __label__0
+How do I delete an order How do I delete my information __label__0
+How to contact the dispute team How can I get in contact with the seller __label__0
+Was the order canceled How long will it take for the money to be on my credit card I did not understand the way in which the money will be reimbursed __label__0
+Was the order canceled How long will it take for the money to be on my credit card Will I receive my money back if the order is canceled __label__0
+Hello I want to track my order how can I know the tracking number I want my tracking number __label__1
+I want to communicate with supervisor I want to talk to human __label__1
+He says that the system is not available to try later I try to pay but says that the system is not available __label__0
+He says that the system is not available to try later System not available try again later __label__1
+How can I pay with WebMoney How to pay through WebMoney __label__1
+How can I pay with WebMoney How can I pay with Western Union __label__0
+The system is not available try again later The service is not available Please try again later __label__1
+How can I pay in my local currency How can I pay for all my products in the shopping cart in one payment __label__0
+How can I pay in my local currency How can I pay with iDeal __label__0
+How long does it take to get full refund How long does it take to deliver __label__0
+Why do I have charge on my credit card when I did not have an order They charged on my credit card when I never bought them anything __label__1
+I opened dispute and what should I do next I have opened dispute what can I do next __label__1
+I have not received my refund I have not received my package __label__0
+where is the money from my refund request Will I receive my money back if the order is canceled __label__0
+How do I review an assessment How do I leave valuation about the products __label__0
+What are the Local Returns What are Domestic Returns __label__1
+What are the Local Returns Are the Jordan shoes replicas __label__0
+When will my money be returned from canceled order Will the coupon be returned __label__0
+What are the Local Returns The products they sent are of poor quality __label__0
+Now I have dispute what can I do I opened dispute and for now nothing __label__0
+Now I have dispute what can I do Can I make dispute twice __label__0
+How can I pay by bank transfer When can I buy with bank transfer __label__1
+How can I pay by bank transfer Do they make bank transfer __label__0
+What forms of payment are there Why is there payment method with Western Union __label__0
+How can I receive refund through my mobile balance How do I receive refund through WebMoney __label__0
+How can I get my money back How can I transfer my money to your account __label__0
+How will I receive refund of my order How will I receive refund for my order __label__1
+How can I upload my video in response to dispute mediation I can not write in the answer text box __label__0
+When do I have the refund When do I have the refund __label__1
+I HAVE MORE THAN ONE HOUR WAITING YOUR SERVICE IS VERY BAD PLEASE CHECK MY CONSULTATION YOU CAN NOT BE ANSWERED TO MANY THINGS THAT TODAY I DO NOT WANT TO KNOW READ AND CHECK MY CONSULTATION I want my money back __label__1
+I HAVE MORE THAN ONE HOUR WAITING YOUR SERVICE IS VERY BAD PLEASE CHECK MY CONSULTATION YOU CAN NOT BE ANSWERED TO MANY THINGS THAT TODAY I DO NOT WANT TO KNOW READ AND CHECK MY CONSULTATION I ordered many things from different stores and I want to pay them all together __label__1
+How do I cancel dispute How do I cancel dispute __label__1
+How do I cancel dispute How do I modify dispute __label__0
+Why can not dispute be opened Why can not the order be sent to my country region __label__0
+Why can not dispute be opened Why the order can not be shipped to China __label__0
+The order does not appear in my account How do I receive the refund for my order In my bank account __label__0
+The seller says does not have in stock and asks to cancel I try to register and tells that the service is not available __label__0
+After the cancellation on how many days will the money be returned If I ask now with UPS how many days does the item arrive in my country __label__0
+So how can I do to save my orders which are many if my address is incomplete I have already paid for my order but it appears that I have not paid yet what to do __label__0
+I have problem with seller I have problem with the payment __label__0
+PLEASE READ MY CONSULTATION YOU CAN NOT BE ANSWERED TO MANY THINGS THAT TODAY I DO NOT WANT TO KNOW READ MY CONSULTATION I want my money back __label__1
+How to establish main card How can I search for the products on your homepage __label__0
+How to establish main card How can I establish an automatic payment method __label__0
+How to establish main card Why did you fail to set my shipping address __label__0
+How to get my money back How can I ask for refund of this order __label__1
+When will I recive my order Will I receive my order on time __label__0
+The product that I bought does not work The product that I bought does not work __label__1
+What happens if the product you gave does not match the description What happens if I accept the details of the dispute __label__0
+The system does not let pay The computer will not let write messages __label__0
+The system does not let pay He will not let open an account __label__0
+The system does not let pay Why does the system tell that I can not participate in this promotion __label__0
+When will I receive the refund after closing the order When will I receive my refund for the canceled order __label__0
+I have problem with dispute I have problem with bad seller __label__0
+YOUR SERVICE IS VERY BAD PLEASE READ MY CONSULTATION YOU CAN NOT GET ANYTHING TO ANSWER MANY THINGS THAT I DO NOT WANT TO KNOW NOW READ MY CONSULTATION I need you to help please __label__1
+YOUR SERVICE IS VERY BAD PLEASE READ MY CONSULTATION YOU CAN NOT GET ANYTHING TO ANSWER MANY THINGS THAT I DO NOT WANT TO KNOW NOW READ MY CONSULTATION Why do I have to pay the service fee of your bank __label__1
+How to make the payment through Ticket I have already made the payment with Ticket __label__0
+How can I verify my address I can not write my Danish address __label__0
+Can I cancel an order I already paid I want to cancel an order but I can not __label__0
+I want to know how the refund will be made I want to know more about the refund by credit card __label__0
+How to modify dispute How to cancel an accepted dispute __label__0
+Why is my order closed with the payment deducted Why the order been canceled __label__0
+Every time I go to pay it tells that an unknown error occurred Do I need to send request to the bank every time I pay in installments __label__0
+When will they give my money after canceling the order When would I get my money back The order not arrived __label__0
+It says that my account is not authorized to make purchases It says that the system is not available __label__0
+The status of my order is pending receipt and I have not received the product yet I have paid for my order Why the order status says Pending payment __label__0
+How to pay the order by Bank Transfer I want to pay the bill with bank transfer __label__0
+Why does it appear not paid when the payment already been deducted on my card I have already paid for my order but it appears that I have not paid yet what to do __label__1
+We are already spinning again without understanding each other Could someone help Why is my payment being verified again if it already been confirmed __label__1
+How can I know if my order been canceled or not I want to know if my order been placed __label__0
+How can I know if my order been canceled or not How do I know if my order been sent __label__0
+How to use coupon in an order How to use coupon in the order __label__1
+When will I receive the money When will I receive the money __label__1
+When are my products going to be shipped Can I send my products to China __label__0
+When are my products going to be shipped When can I receive my package after the products are shipped __label__0
+Why did you cancel my order Why is My Order empty __label__0
+Why did you cancel my order Why my order disappeared __label__0
+What other ways do I have to make the payment What other payment options can I use __label__1
+What other ways do I have to make the payment I want to cancel my order but the seller sent it anyway __label__0
+Who is in charge of my dispute Can I get your email address How can I get the best shipping costs __label__0
+Who is in charge of my dispute Can I get your email address Delete from the mailing list __label__0
+How do I pay for my order through Westen Union What is the next step What is the code of my country __label__0
+How do I pay for my order through Westen Union What is the next step Can we make the payment through debit card __label__0
+The order does not arrive and the seller does not respond The seller does not respond to my refund request __label__0
+The product is not what I want or I asked The seller does not have the shoes I ordered but does not answer __label__0
+The processing time is over and the seller not shipped the product When will I receive refund if the dispute is over __label__0
+Hello I have problems making payments due to an outstanding appeal that is not completed I have problems to create my account __label__0
+I can not pay for my order How can I pay for my order __label__0
+I want to talk to human I want to talk to human __label__1
+Thanks recently I bought product and it only lasted very little left factory defect is stereo car I need instructions for an item that I bought __label__0
+I have problems with dispute I have problem with the dispute __label__1
+When should I pay for presale order How should I pay with Western Union __label__0
+How to pay by credit card I have problem paying online with my credit card __label__0
+How can I save my orders which are many if my address is incomplete I want my orders sent together to my address __label__0
+Is the payment system out of service How do I use the Guarantee Service __label__0
+Why does my status indicate waiting for my payment Why is my payment frozen __label__0
+Why not my comment been shown Why the payment not been verified __label__0
+Why not my comment been shown Why the delivery period extended __label__0
+Why my order been canceled My order been canceled Can you tell why __label__1
+Why my account closed Why not my order been canceled __label__0
+How can I receive refund through Western Union After placing an order how can I pay with Western Union __label__0
+The order not been paid The seller refuses to send my order after having paid __label__0
+The order not been paid Why the order been canceled but the payment already been made __label__0
+The site does not allow to open dispute I am not allowed to login __label__0
+I want to talk to person I need to speak with representative __label__1
+I want to know the status of my refund I want to know the state of mediation __label__0
+I WANT TO MAKE AN INQUIRY I want to make bank transfer from ** __label__1
+problems with the warranty I'm having problems with my order __label__0
+I need to file complaint against seller I want to file claim because the seller cheated __label__1
+I want to recover the money I can not wait that long I want to extend the shipping time to * days __label__0
+I want to recover the money I can not wait that long I want them to return the money from the products to another card __label__0
+How to enter shipping address How do I add the shipping address __label__0
+How to enter shipping address How do I change the shipping address __label__0
+How do I prove my identity How do I cancel my order __label__0
+How can I pay the payment information When can I receive the shipping information __label__0
+How can I review comment How can I receive refund __label__0
+How is the processing time extended Can I extend the processing time __label__0
+What is the status of my order The status of my order is Null What happen __label__0
+What is the solution to my case What is the situation with my dispute __label__0
+What is the solution to my case What is the contact information __label__0
+When will I receive the money for the canceled products When will I receive refund if the orders have been canceled __label__1
+Where is the answer Where is the information of the dispute __label__0
+In how many days will I receive my money if I cancel the order When will I receive the refund if I cancel my order __label__1
+Is there way to pay at the door What is the best way to contact seller __label__0
+Is there way to pay at the door I made purchase but the store does not exist __label__0
+Shipping costs were paid at the time of shipment or upon receipt of the product Shipping costs by return __label__0
+Why is the payment received less than what we pay The seller says that the payment not been received after completing the order What I can do __label__0
+Why do not I have my money so far Why do not they give back the money __label__1
+Why does my shipment take so long Why does my payment take so long to be processed __label__0
+Why does my shipment take so long Why do they take so long to resolve the dispute __label__0
+Why could not I pay with my credit card Why can not I use my credit card __label__1
+Why do you allow them to cheat your customers Why are you asking to save my card __label__0
+Why does not the seller ship the product or respond The product received is not good or works what can I do __label__0
+Why does not the seller ship the product or respond The seller does not respond to my refund request __label__0
+Can I pay with gift card Can I pay with gift card __label__1
+What is my user ID Why my user level decreased __label__0
+What should I do if the seller is cheating What can I do if my order is frozen due to the seller's activities __label__0
+How do I get in contact with the seller How do I contact seller __label__1
+How can I present complain I need to file dispute but the term run out What I can do __label__0
+Change the contact person How can I change the reception address __label__0
+When will I receive the refund after canceling the order When will I receive the refund after canceling the order __label__1
+When will I receive the refund after canceling the order When will the refund be approved and when will I receive it __label__0
+Where is my order please My order is closed by Not sent __label__0
+The status of the refund request What is the status of the claim __label__0
+The status of the refund request The order status not changed after I made the payment what happens __label__0
+The order indicates that I have not paid but I already paid I've already paid but it seems like I did not __label__1
+The provider does not respond to cases How do I contact the Case Management team __label__0
+The seller must pay the shipping costs Do I have to pay the shipping costs for the repair service __label__0
+The seller requires the use of PayPal to return my money I waited for my refund and the seller never responded __label__0
+The seller tells to cancel the order to return the money How long does the dispute center take my money back __label__0
+The seller given tracking number that does not correspond to my order I placed an order but they did not give any tracking number __label__0
+I just placed an order but said the transaction was closed I do not understand I just ordered product online but I have not put the correct address what can I do __label__0
+I just placed an order but said the transaction was closed I do not understand How can I cancel product that I just made __label__0
+I have pending refund How do I request refund __label__0
+I would like to know what happened to my dispute I do not understand I have dispute about my order that been closed __label__0
+I want to delete my credit card I do not want to send my credit card statement __label__0
+Please let know why one of my orders is canceled Can you give discount __label__0
+Please let know why one of my orders is canceled How much money will they give back __label__0
+I can not locate my order Can I edit my order __label__0
+I have not received my order My order arrived The items were somewhat damaged __label__0
+hello and look at the page you suggested but I can not change euros to pesos please help Please tell how to change the delivery address __label__0
+because I can not open disputes and my account is disabled for security How can I close this account __label__0
+How can I receive refund through Doku How do I receive refund through Maestro __label__0
+What does Save card mean on the payment page Bank transfer and Western Union do not appear as payment methods on the payment page __label__0
+How do I get coupon How do I eliminate coupon __label__0
+How can I find out where my order is Where is my coupon __label__0
+How can I remove items from my wish list Share my Wish List __label__0
+How can I know the ID of other members Can I contact other buyers __label__0
+How can I know if they have shipped the products How do I cancel an order if the products have already been shipped __label__0
+How can I know if they have shipped the products How can I see the messages I have already sent __label__0
+How can I know if provider accepts deposits or not How to know if my order is canceled or not __label__0
+How to reactivate my account How do I close my account __label__0
+How to reactivate my account How do I restore my account __label__0
+How do I request refund How can I get refund __label__0
+How long does it take to verify the documents How long will the products recently seen on the web be displayed __label__0
+How can I cancel an order that is in the process of being paid How can I cancel the order in Pending payment __label__1
+When will the order be canceled When will the amount of my order be updated after the seller changes it __label__0
+How much time is necessary to be able to recover the money from failed transaction How long will it take to return the money from failed transaction __label__1
+How long will the payment verification take My order was frozen after the order verification because the seller is being investigated __label__0
+How many days are missing until it arrives Do I need to confirm merchandise received before it arrives __label__0
+In what situation will the refund be made Will the coupon be returned __label__0
+Is there an error in your payment options Is there seller in North America __label__0
+Is there an error in your payment options Is there an order cancellation fee __label__0
+Why can not the order be sent to my country Why can not I ship the order to my country __label__1
+Why have payment been discounted if I have not made transaction I made duplicate payment by mistake __label__0
+Why have payment been discounted if I have not made transaction Will the seller be notified if I have made the payment __label__0
+Why can not I use my credit card Why do not you accept my credit card __label__1
+Can I get the product to arrive faster Can I make the product arrive faster __label__1
+Can I know what is happening with my dispute How can I know if my order is coming __label__0
+Can I know what is happening with my dispute Why is my order closed with the payment deducted __label__0
+Can I know what is happening with my dispute Why is the dispute closed __label__0
+What should I do if my package is stopped at Customs The package is in the hands of the customs how can I do the process __label__1
+What happens if the seller does not accept or reject my dispute within the indicated period What happens if the seller does not approve my cancellation request __label__0
+What does it mean shipping address error What does Pending return shipping mean __label__0
+How to open dispute for finished order How to open dispute for closed order __label__0
+How to contact the provider if the email address does not work How do I contact the Case Management team __label__0
+How to use the refund of one order for another When will I receive refund for the order __label__0
+Cancel pending payment I sent them my transfer but it's still pending payment __label__0
+What is the shipping cost to China What is the name of the shipping company __label__0
+When will I receive my refund of the canceled order When will I receive my orders __label__0
+The tracking code is incorrect I can not know where my order is The tracking code is incorrect so I can not know where my order is __label__1
+The provider does not help resolve my claim How do I check my claim __label__0
+The provider is not online Why is my order frozen even though the provider already sent it __label__0
+The provider is not online Where is the provider's response __label__0
+The seller agreed to return the money how can I get it One of my orders was canceled by the seller How can I receive my money back __label__0
+The seller agreed to return the money how can I get it The product been returned to the seller When can I receive my money __label__0
+The seller is not responsible for the dispute How do I change the reason for the dispute __label__0
+The seller does not extend the delivery period The seller asked to confirm the delivery before sending the product __label__0
+Why have not they given the shipping information for my order Why is the tracking ID given to false __label__0
+Why have not they given the shipping information for my order Why is there more tracking information on my package __label__0
+What forms of payment are there What other way is there for to make the payment __label__0
+What forms of payment are there I want to cancel my order but the seller sent it anyway __label__0
+I opened dispute they agreed to make refund of my money I opened dispute and the seller accepted __label__0
+I opened dispute they agreed to make refund of my money I have opened dispute for my order but the provider rejected the refund request __label__0
+I accepted dispute accidentally How to cancel dispute __label__0
+Help to know where an order is I canceled an order Where is my money for the items __label__0
+Help to know where an order is Where is your headquarters __label__0
+when they will approve my appeal My appeal been accepted can I buy again __label__0
+when they will approve my appeal I need to verify my email when I create an account __label__0
+hello I can not pay for my orders Can I pay for my combined orders __label__0
+Hello they have sent my package to another address but I can not open dispute because my account is deactivated what can I do How can I place an order if my account is deactivated __label__0
+Hello they have sent my package to another address but I can not open dispute because my account is deactivated what can I do My privilege points have not been added to my account What I can do __label__0
+Well my problem is that I created the account but the email is not correct You do not accept my payment in Western Union The reason is that the account number is not correct __label__0
+I want the order to go back to its course What does The supplier partially sent your order mean __label__0
+You will see my order not arrived and my order appears as completed but I never received my product I already made my payment but it appears as not paid What I do __label__0
+How to buy wholesale How do I buy wholesale __label__1
+How to check the status of the shipment How can I check the status of the claim __label__0
+How to get refund if the product does not arrive If I ask now with UPS how many days does the item arrive in my country __label__0
+How to choose the size or color How can I use the coupon or the coupon code __label__0
+How come my order is not approved I want my refund How do I get the dispute resolved __label__0
+How come my order is not approved When will the amount of my order be updated after the seller changes it __label__0
+How to pay with Visa card I am trying to pay with Visa card and will not let pay __label__0
+How can I activate my registration coupon How do I register seller account __label__0
+How can I change the country How can I change the Spanish language to English __label__0
+How can I change the registration email address Please tell how to change the delivery address __label__0
+How can I sign out of my account How do I log out with my account __label__1
+How can I check if my delivery address is correct How do I change the delivery address __label__0
+How can I check if my delivery address is correct How can I correct my email address __label__0
+How can I earn points or get coupons How can I earn coupons __label__1
+How can I make changes to my profile How can I edit my profile __label__1
+How can I make changes to my profile How do I edit my member profile __label__1
+How can I make changes to my profile I can not find my member profile __label__0
+How can I make changes to my profile I can not log in to my account What I can do __label__0
+How can I make change How can I make combined order __label__0
+How can I get refund I sent the product again Can I transfer the refund to my new order __label__0
+How can I get refund I sent the product again My order was canceled How can I do it again __label__0
+How can I resume an order How can I place an order if my account is disabled __label__0
+How do I receive the tracking number of my order Where can I see the tracking number of my order __label__0
+How do I receive the tracking number of my order How to get the tracking number __label__1
+How to respond to claim How to cancel claim __label__0
+Confirm the reception of the order Why the deadline to confirm received order changed __label__0
+What is the solution to the dispute I want to accept the partial refund solution __label__0
+What is the solution to the dispute What is the status of the claim __label__0
+What are the typical cases of fraudulent activities What are the privilege points __label__0
+What are the available payments Are the sweaters authentic __label__0
+What are the available payments How much are the expenses by bank transfer __label__0
+When will I be able to get the full refund How long does full refund take __label__0
+When will I be able to get the full refund When will I receive the refund after opening dispute __label__0
+When will I receive refund Orders have been canceled When will I receive refund if the orders have been canceled __label__1
+When will I know the status of my items sent Can you send my articles to the address of the courier company __label__0
+How long will the provider take to process my order How long will it take for my order to be delivered __label__0
+How long will the provider take to process my order If I ask today how long will it take to get to my country __label__0
+How long will the provider take to process my order How long will it take to get here __label__0
+How long can the seller take to approve my cancellation How long will the seller take to approve the cancellation of my order __label__1
+Where is my product Where is my product __label__1
+Where can I write complaint I can not write messages __label__0
+Should I do something to get the refund How can I get refund __label__1
+Is it possible to pay with debit card I can not pay with debit card __label__0
+Is there maximum limit of transactions What is the maximum amount limit for transaction __label__0
+My order been canceled how do I place the order again My order been canceled How can I repeat it __label__1
+My order is going to be sent by or air Why is my order canceled __label__0
+My order is going to be sent by or air Why is my order closed __label__0
+Why have you canceled my order Why does my order post canceled __label__0
+Why is the account frozen Why is the product page not available __label__0
+Why have they charged twice Why do they charge twice __label__1
+Why is my shipping address not accepted Why is the shipping time so long __label__0
+Why not my order been canceled Why not my order been refunded after it was canceled __label__0
+Why not my order been refunded after it was canceled Why do you say that my order been closed __label__0
+Why have not I received the refund Why I have not received the refund of the order __label__1
+Why have not I received my refund Why have not I received an email with my new password __label__0
+Why can not I load my product Why can not I find the product in store __label__0
+Why can not I buy my products Why can not I buy my products __label__1
+Why can not I buy my products Why can not I see my last orders __label__0
+Why is not the payment verified Why the price been adjusted __label__0
+Why so much time for my refund What should I do to receive my refund __label__0
+Can I do dropshipping Can I do dropshipping __label__1
+Can I pay through PayPal Can I pay via PayPal __label__1
+What is the provider's phone number Can you give the customer service phone number __label__0
+Who receives the payment by Western Union Why my payment for Western Union failed __label__0
+Can you pay with walmart wallet card Can I use Walmart card __label__1
+Can you pay with walmart wallet card Can I pay with Chinese bank card __label__0
+Good morning I have been trying to navigate the page for days and I have problems from several notebooks and PCs I can not change the page to see the products purchased and I can not confirm receipt of the order since the page is not cap I want to change the shipping address for an order awaiting payment what can I do __label__0
+How can I transfer my money to the account Can I transfer my payment for the closed order to another order __label__0
+How to complain to the seller How can I leave bad note to the seller __label__0
+How to complain to the seller Can not I send images to the seller __label__0
+Change the reason for canceling the order How can the seller change the sum of the order __label__0
+how do you spell right in spanish Is my order delivered to my address __label__0
+I confirmed that I received the order by mistake Confirmed order received by mistake __label__1
+I confirmed that I received the order by mistake Why did I receive the error The bank account number is not valid __label__0
+When will I receive my refund I would like to know when I will receive my refund __label__1
+How long does your dispute center take my money back The order was canceled how long will the money take to return to my credit card __label__0
+what is the local shipping company What is the Wish List __label__0
+Leave the measurements in the comments box to the suppliers Is that correct When buying goods from different sellers will all orders be exported in the same box __label__0
+Leave the measurements in the comments box to the suppliers Is that correct Can I leave ratings for suppliers __label__0
+Inside my shopping cart do not appear my purchased products My purchases were sent to number that is not my house __label__0
+The tracking number can not locate the shipment Give us the tracking number __label__0
+The order been frozen just after paying Why not my order been refunded after it was canceled __label__0
+The product is not the same as the advertisement The product that I bought does not work __label__0
+The tracking of my order does not work My tracking number never works __label__1
+The seller says will not ship the product I try to pay but says that the system is not available __label__0
+The seller says that it is not possible to send the product I do not understand English well is it possible to speak Russian __label__0
+The seller reports tracking code and can not be found The tracking code written on the web is wrong __label__0
+The seller was not honest The seller was not honest __label__1
+The seller was not honest I want help finding an honest provider __label__0
+The seller is not reliable I received an email with the notice that the seller is suspected of fraudulent activity __label__0
+The seller not shipped the products I have returned the products but the order been completed __label__0
+The seller not shipped the products How do I change valuation in the seller and the products __label__0
+In this store they ask for more money although they are promoting their articles claiming they do not earn money and they want to pay them several euros over their promotional value TOPVIP Store I did not understand the way in which the money will be reimbursed __label__0
+How can I get refund I sent the product again How can I get an invoice __label__0
+How to recover coupon How do I use more than one coupon in an order __label__0
+What is the status now What is the coupon for VIP members __label__0
+When can I receive the refund How long can I receive the refund __label__0
+How long does it take to ship to my country How long does it take to get to my country __label__0
+Where is the Contact Now button Where is the Contact Now button __label__1
+How long can I receive my order Can I receive my order on Friday __label__0
+Why is there response to my claim Why does not my claim progress __label__0
+What is Pending Payment What is Pending receiving __label__0
+Will there be separate shipment of all the items in the cart or will they all arrive at the same time I want to ask if all the sellers are from China or there are other sellers __label__0
+Someone made transaction with my credit card I am trying to pay with Visa credit card but it always says that the payment failed __label__0
+I still do not receive the refund I paid via Western Union how do I receive the refund __label__0
+Tracking button does not work I did not receive tracking number __label__0
+as contact to the seller How do I contact the customer service team __label__0
+The seller closed the dispute The seller accepted the terms of the dispute but there been refund __label__0
+the seller canceled the shipment I paid for an order but it was canceled The seller not returned the money __label__0
+hello seller sent my package to another incorrect address I have entered an incorrect delivery address __label__0
+The merchandise received is not the agreed one The seller sent the goods to the wrong number __label__0
+I made the claim and I blocked your message tray I placed the order but they suddenly raised the price __label__0
+It puts that the order is closed and that I must appeal The order was closed by the system because the seller is suspicious __label__0
+It puts that the order is closed and that I must appeal In my order it says that I have not paid but I can see the payment in my bank account __label__0
+My name is Francisco I wanted to know if there are shipping problems in China I forgot to put my name in the shipping address __label__0
+I need to talk to an agent I need to talk to person __label__1
+I have not received the goods and the dispute time closed what can I do The dispute closed automatically what can I do __label__0
+I can not pay for my order month ago I can not pay for my order what can I do __label__1
+I can not pay for my order month ago I can not pay for my order with my card __label__1
+I want to talk to commercial I want to contact human __label__1
+I have query my appeal is approved Is it now if I can pay for my orders I can not find my order It does not come out __label__0
+Good afternoon I opened dispute with the seller because of merchandise I bought and I was defective but my application had disappeared from the list and I did not even have return I would like to pay half with credit card and the other half with another credit card __label__0
+I think it's seller scam What can I do if the seller's score is not reliable __label__0
+When can I talk to human I would like to speak with customer service agent __label__1
+the seller canceled the order Did the seller send my order __label__0
+Hello I did not receive the money from my refund of my canceled order My order is canceled and I want my money back __label__1
+the buyer's protection ended What is Buyer Protection __label__1
+the buyer's protection ended Do I have buyer protection __label__0
+I would like to know how long it will take to contact for the dispute that I have opened Are you going to give the shipping information __label__0
+I wanted to check for the status of purchase I made recently because I got an error sign indicating that the purchase could not be processed but before trying payment again check if the payment was made The seller asked to confirm the delivery before sending the product __label__0
+I want to communicate with consultant I want to pay with debit __label__0
+How to change the email in my account I want to change my email address because the old one was hacked how can I do it __label__1
+How to change the reception address How can I change the reception address __label__1
+How to change the reception address I confirmed the receipt of the articles by mistake How do I change the state __label__0
+How to change my address I want to change my address __label__1
+How can I indicate that I am online How do I get information about my order __label__0
+How can I indicate that I am online I am not satisfied with the service I received How can I leave valuation __label__0
+How to get in touch with the dispute team How do I contact the dispute team __label__1
+How can I change the registration email address How to hide the email address __label__0
+How can I change the registration email address I need to change my email address __label__1
+How can I cancel purchase that not been paid How can I prove that I paid by bank transfer __label__0
+How can I cancel purchase that not been paid I paid for my purchase but I stated that there was payment __label__0
+How can I check if my delivery address is correct How can I check if they have my correct address for the shipment __label__1
+How can I check the status of the order How do I know the status of the order __label__1
+How can I find products or previous sellers How can I delete previous orders __label__0
+How can I find products or previous sellers How can I find the assessment I left __label__0
+How can I get my refund Can I get some samples __label__0
+How can I know if they have sent the products What to do if the seller sent the products with the wrong courier service __label__0
+How can I know if the payment been made I want to know if the provider received the payment or not __label__0
+How can I know if supplier accepts deposits or not How can you know if seller is legitimate __label__0
+How can I have my own store If I use my credit card can I have buyer protection __label__0
+How is the processing time extended Why can not I extend the processing time __label__0
+How can you find product identification number I want to know how to find the product __label__0
+How to use the guarantee How do I use the Guarantee Service __label__1
+When are my products going to be shipped My products do not work __label__0
+When will the order be canceled When will the refund be approved and when will I receive it __label__0
+When do I have the refund How do I check if I have the refund or not __label__0
+How much time do I have to return package Return defective item __label__0
+How many days are missing until it arrives Can you tell how many days it usually takes to complete claim __label__0
+How many days are missing until it arrives Until we complete the verification you will not be able to place an order __label__0
+Where should I go to follow my order What should I do if my payment with WebMoney failed __label__0
+Where should I go to follow my order Can I change my valuation for the order __label__0
+Where should I go to follow my order There is valuation score for my order __label__0
+Where is the product Is the product in stock __label__0
+Where can I see the Grievance Center Where can I see my account __label__0
+Where can I see the provider's response No response from the provider after consultation __label__0
+Where can I see the provider's response Where can I see the coupon code when I place the order __label__0
+Is the order number also the tracking number Is the order number and the tracking number the same __label__1
+Is the order number also the tracking number The tracking number does not work __label__0
+Are there any errors in your payment options Is there an order cancellation fee __label__0
+Is there any way to pay in cash Is there any way you can combine orders from different sellers in one shipment __label__0
+Are the products of the order sent together or separately Payment before or after receiving the products __label__0
+Should my credit card be international to buy on this page What is this page for __label__0
+Can you help follow my order Can you help keep track of my order __label__1
+Why do I take charge of an order to my card but I do not get any mail from the confirmation of the sale or I appear to have made an order Why have I received an order from another person __label__0
+Why can not I leave comments for my order Why can not I leave valuation for my order __label__1
+Why was the payment not approved Why the payment not been verified __label__1
+Why is my order returned Why was my order closed __label__0
+Why is my order returned Why is the order not shown in my account __label__0
+Can I pay in cash How can I pay for my orders in one payment __label__0
+Can I have receipt for my payment How do I receive refund for SMS Payment __label__0
+What comments did I give I want to change comments __label__0
+What should I do if my package is stopped at Customs The package is in the hands of the customs how can I do the process __label__1
+What happens if the seller does not send the order before the end of the processing time What happens if the seller does not send my order before the processing time __label__1
+If I try again will not be double charged What to do if the page does not load __label__0
+Will I only pay for the cost of the products and everything How do I change valuation in the seller and the products __label__0
+to colombia because company arrives the shipments Can you send my articles to the address of the courier company __label__0
+where the refund is made Can you give the web page where to track my order __label__0
+where the refund is made Is the coupon automatically applied __label__0
+to the address they told The seller told I could reopen the dispute __label__0
+to date I do not receive refund of my money My money been withdrawn from my bank but I do not receive confirmation __label__0
+At the time of payment it tells to put the number of the card with balance Please give the help line number __label__0
+to whom do I put the payment What is the name of the shipping company __label__0
+besides answering the security questions How to deal with the fees __label__0
+Despite having read some of the questions that solve doubts I do not understand very well the status of my order The seller says that the payment not been received after completing the order What I can do __label__0
+To which electronic address can I send the documents for verification I can not send the messages __label__0
+what is referred to in Reformed condition instead of new There is size option can I leave message instead __label__0
+to which email I write to be able to expose if case What do I write in the account number on the Western Union form __label__0
+to which email I write to be able to expose if case How do I write review __label__0
+What mail did I send the image to I can not upload JPEG image __label__0
+at what time are working customer service I can not send an email to customer service __label__0
+at the same time told to make report This is the first time that I place an order __label__0
+I have not received the refund yet I have not received the tracking number yet __label__0
+I have not received the refund yet I have not received my refund __label__1
+I opened dispute because the cell I received was reset The seller does not have the product for which I paid __label__0
+I opened dispute few days ago Open dispute month ago and I'm still waiting for an answer __label__1
+I opened dispute that is now over but I have not received the refund I have not received the refund after the dispute ended __label__1
+I opened dispute I reached an agreement with the seller and it was not fulfilled what I do I opened dispute and I did not get response from the seller __label__0
+abru dispute because I received broken product I did not receive an answer for an order that an escalating dispute __label__0
+abru dispute because I received broken product I have opened dispute because the matter not been followed for quite some time __label__0
+ACA IN CORREOS DE CHILE INFORMED ME THAT IT WAS RETURNED TO CHINA What happens if the item was returned because it had high customs taxes __label__0
+I just placed an order where to get the receipt I want to track an order __label__0
+I HAVE PERFORMED THE INTERBANK TRANSFER OF AN ORDER How can I cancel product that I just made __label__0
+I just made payment Should I contact the seller before making the payment __label__0
+I just received an email that my order been canceled for nonpayment How can I cancel product that I just made __label__0
+Accidentally press button to confirm the order and the products I have not received them How can I receive the tracking information for the products I have ordered __label__0
+do you accept ocean pay debit card Do you accept Discover card __label__0
+accept or reject the seller's offer Is buyer protection service given automatically or is there fee __label__0
+About my account some problem I have problem with my shipment tracking __label__0
+according to the seller the refund and not done anything What happens if the time runs out and the seller not sent my order __label__0
+I currently have an open dispute and the truth is that I do not know what steps to follow from now on I have Business credit card that is not accepted __label__0
+It is also small envelope in the ass could not fit the purchased item I live in China Is the shipment free __label__0
+I am also asked for quantity of private information that I can not provide for security The amount of the invoice is not the same as that of the orders __label__0
+where I go to order my rings I can not find the button to track my order __label__0
+personal agent please Loading Please wait __label__0
+Oh okay I mean what's general problem I have problem with my shipment __label__0
+there is the order number with can you help How do I make payment with the refund of an order __label__0
+Now I must leave and I can`t continue How much do I have to pay for taxes and customs fees __label__0
+Now I must leave and I can`t continue How can I place an order that I do not want to pay now __label__0
+Now the seller does not answer my messages What do I have to do when seller does not answer my emails __label__0
+now I ask again Are not they shipping the product now __label__0
+Now the orders appear to to make them again and at the same time in transit Why do not I see the orders on the website __label__0
+now I get messages that my orders are being held in customs I have not received my products Retained by Customs __label__1
+Now asks to contact you and change the option to I do not want the product anymore When that is not true See messages sent and received My purchases were sent to number that is not my house __label__0
+I now receive message saying the following Why do I receive emails saying my order is closed __label__0
+Now I had an email where I said that my order been canceled because I have not paid I received an email saying that my order been canceled for nonpayment __label__1
+now I see that the charge been made to my two cards If I cancel an order that I have made will all the money be returned to __label__0
+now I see that the charge been made to my two cards In my order it says that I have not paid but I have __label__0
+Now I got the vouchers but I can not access that account since I do not create user so I do not have password I try to access my account but it will not let __label__1
+When writing my NAME and SURNAME rejects them for not being ENGLISH The seller rejects my refund request __label__0
+In the end yesterday I transport the car with crane to workshop and with simple multibrand diagnosis files that I have sent to him and are posted at httptinypiccom I place an order to be shipped with FedEx and the supplier sends it with China Post __label__0
+In the end yesterday I transport the car with crane to workshop and with simple multibrand diagnosis files that I have sent to him and are posted at httptinypiccom When I receive the email with my order I click on it but it says that I can not see it __label__0
+In the end I had to cancel the order thanks for nothing I can not see the order I paid for __label__0
+In the end I had to cancel the order thanks for nothing I need to cancel the orders I have made __label__0
+In the end the offers will be passed and I can not place my order because your payment system does not advance I have already bought more times with that card without any problem and I see that as the day goes by the available stocks go down I have asked for things and I want to know when they will be sent __label__0
+when buying product this does not let tell that I have to appeal I try to register and tells that the service is not available __label__0
+When paying with my credit card it says error of payment I would like to pay half with credit card and the other half with another credit card __label__0
+apparently there is confusion with seller I would like to send query about purchases to the seller __label__0
+By putting the name of the street tells that I should put it in English I can not change the name The name of the street is wrong What I can do __label__1
+When making purchase you can not pay with any new card that you add Can I pay with Brazilian card __label__0
+When making purchase you can not pay with any new card that you add I can not pay with card __label__1
+By using the coupon and paying I cancel only the order Why did I give an error when placing the order here __label__0
+SOMEONE CAN CALL ME TO TALK ABOUT MY ORDERS THAT DO NOT APPEAR ON ANY SITE Do you have contact number I can call to talk about my dispute please __label__0
+can someone help I want to know what is happening now my appeal was approved they sent my order or I already lost the offer I would like my products to be sent to new address __label__0
+can someone help I want to know what is happening now my appeal was approved they sent my order or I already lost the offer I did not place an order Someone used my card __label__0
+can someone talk to Can you put your Account Security Team in contact with __label__0
+can someone talk to Can you communicate with in Russian __label__0
+Someone uses my email address I want to send my Wish List to someone __label__0
+Any agent that is person What do I do if person keeps changing the price __label__0
+Any agent that is person A transaction been made on my credit card by someone else What I can do __label__0
+some problem with futbol sd eibar shirts madrid barcelona There is problem with my account __label__0
+Can someone help Why have I received an order from another person __label__0
+Some options do not work How do events work __label__0
+Some options do not work How do discount coupons work __label__0
+Some options do not work There is bank transfer in the payment options __label__0
+extend the protection time and still do not send it I have been charged but the order is still pending payment __label__0
+Last night I was talking to girl named Kayla He says does not sell to this country __label__0
+Last night I placed an order and canceled it I placed an order but they closed it for __label__0
+PREVIOUSLY I HAVE DONE IT CALL MY BANK AND TELL ME THAT EVERYTHING IS NORMAL BUT I CAN NOT NOSE CAN PAY If I cancel an order that I have made will all the money be returned to __label__0
+before anything good morning eva Should I confirm the products before they arrive __label__0
+He used to tell that did not have permission to enter now it turns out that if you have entered the page If they freeze the order what can I do to get the money back __label__0
+Before if it could be true If I ask several different sellers will my orders be sent together __label__0
+I used to have benefits in my account and now I do not Why have I put things in my Basket and now they are gone __label__0
+I used to have very long wish list How do I add products to my Wish List __label__0
+I used to live in China and my account identified my country as China I want my products sent to my agent in China __label__0
+I used to live in China and my account identified my country as China I want to send my product to China but I can not find it in the list of countries __label__0
+cancel an order and I have not received the refund on the card I have not received the refund and my order been canceled __label__1
+cancel an order and I have not received the refund on the card Order canceled by the seller and I have not received the money __label__0
+It appears as closed but the money not been returned I have paid for my order but the payment not been successful and they charged the money __label__0
+APPEARS AS A DELIVERED ORDER BUT I HAVE NOT BEEN GIVEN ANYTHING WHAT I DO' They say they sent an email but I do not know where __label__0
+it appears that they are returning the payment and I want the products I try to appeal and I can not attach the PDF with the information they ask The received products stopped working and the seller does not respond __label__0
+an error message appears I need to pay for my order but I still get an error message __label__1
+A shark appears in the middle of road I want job in company __label__0
+A shark appears in the middle of road Why does the closed dispute appear in my order __label__0
+Credit card appeal How do I pay with credit card __label__0
+I'm attended by person I made purchase and did not answer __label__0
+so carry out but the charge is not made and the products continue to appear as pending and send an error The supplier raises the price of the products and requires an extra payment __label__0
+so have an appeal in progress Refund in different account __label__0
+so have an appeal in progress How long does it take to end dispute __label__0
+Customer service does not work I can not send an email to customer service __label__0
+attention to the personal client please Customer service phone __label__1
+service an online executive How do I leave message on my order __label__0
+EVEN SO I CAN NOT MAKE MY PURCHASE How can you secure my purchase __label__0
+even when they are canceled Do I pay for the products when I order or when they deliver them __label__0
+I still await response from the seller How can I report misconduct by the seller __label__0
+I have not received the refund of my orders yet I have not received the refund what can I do __label__1
+I have not received the refunds yet I received the articles how to confirm it __label__0
+I still have not received an answer about verification of the payment made today eight days ago I made it My order was sent but I have not received it __label__0
+I have not yet been reimbursed for my money after the resolution of the dispute and almost month passed Open dispute month ago and I'm still waiting for an answer __label__0
+I still do not know anything about product not received I received defective product __label__0
+Although I'm still interested in the product but after seven months I still do not receive it I think the best thing is refund Why do I keep getting an error when I try to pay for my things __label__0
+automatically the app used the coupons I had to make them without being able to remove them I have changed the card I used for the order __label__0
+Notice You have not reached an agreement with the seller The amount of the refund will be that of the previous proposal Submit resource If you are not satisfied with the outcome of the dispute or with the attention that we have given you you can pres Where can I see the outcome of the dispute __label__0
+Help to reconfigure my language to English Can you change my page to English please __label__1
+Help to reconfigure my language to English I want to cancel it and ask again __label__0
+Yesterday after chatting with partner very well indeed Why does the seller require shipping cost for product with free shipping __label__0
+Yesterday I placed the order and today I have done it again I am worried that they will approve twice I've already paid but it seems like I did not __label__0
+Yesterday I placed the order and today I have done it again I am worried that they will approve twice I have not received the order and the tracking number they gave is wrong __label__0
+Yesterday I placed an order I paid but the email is not mine I'm wrong I placed the order but they suddenly raised the price __label__0
+Yesterday I placed an order but it been rejected by you I placed an order but they closed it for __label__1
+Yesterday I did some consultations x package that not arrived I can not locate the order I made __label__0
+yesterday I made the deposit of my order through the payment market deposited in an oxxo How do I make payment with the refund of an order __label__0
+yesterday I made the deposit of my order through the payment market deposited in an oxxo I have paid with DOKU Why is the status of the order still pending __label__0
+Yesterday I received the order and it does not come in its original packaging I paid but I did not receive the order __label__0
+Yesterday I was asked for proof of email from where the order is what do I do now Now an email arrived that says that my order been canceled because I did not pay __label__0
+yesterday and now again Can you send the goods again if I have already paid __label__0
+help from person in Spanish How can I contact customer service person via telephone __label__0
+help from person in Spanish I can not open dispute I need your help __label__0
+well I sent it to your same address Can I register another account with the same email address __label__0
+Button to expedite the process Where is the Chat button now __label__0
+Good day there are several closed orders that have not arrived Eliminate closed orders __label__0
+Good day I am following up the request several days ago the seller does not respond The seller does not answer __label__1
+Good day I am following up on my request several days ago The seller not responded can you help The provider not responded to my emails __label__0
+good day I write to track an order How do I enter the tracking number when returning an order __label__0
+good day I want to know how the status of my refund of purchase that is not authorized How is PayPal used as method of refund __label__0
+How do I change the card that is by default What is the default address __label__0
+Why does the country select button not appear Why does not the button in the basket work __label__0
+What do I do when I have received product that I have not ordered I received defective product __label__0
+What happens when an order closes Why is my order not shown __label__0
+I already made my payment yesterday what is the procedure On the website it says that my order already been delivered but I have not received it __label__0
+WHAT TIME DOES YOUR SYSTEM DISCOUNT He says does not sell to this country __label__0
+I opened dispute about an order the agreement was that I have to return the product to get the refund Do I have to pay commissions for refund __label__0
+I opened an account and now it appears blocked Are there discount coupons in my account now __label__0
+I opened dispute they asked to send proofs I already sent them but it appears that they did not receive them I've already paid but it seems like I did not __label__0
+Open dispute about lack of order I am not able to open dispute __label__0
+open dispute and contact dispute is the same It is impossible to open dispute __label__0
+I just entered my profile I misspelled the name in my profile __label__0
+I just spoke with emails until the shipment does not arrive the responsibility is that of the sender How can I cancel product that I just made __label__0
+I just ordered the order but I was wrong in the size The seller sent the wrong size __label__0
+They accept payments with VISA OR MASTERCARD card Do you accept Debit Visa __label__1
+Where are you my profile Old How do I edit my member profile __label__0
+Customs asks for purchase receipt The seller now asks for more money for the product __label__0
+Customs asks for purchase receipt How do I receive refund from WebMoney __label__0
+agira with what confidence can I ask for product Is *** trusted seller __label__0
+ahh I have an appeal Can I use PayPal to pay since I do not have credit card __label__0
+When I said that I did not want to cancel it because it is the one I like they send new email the next day they tell that it is out of stock Do not you think all this is wrong It seems to that all products are misleading advertising __label__0
+At the time of payment I found out that there was an error but when checking the account statement the money was discounted I wonder the status of my dispute __label__0
+someone to answer my questions in Spanish Someone used my email address to open an account __label__0
+appears as canceled the purchase I made the payment by Ticket but it still appears as pending payment __label__0
+the order appears as canceled The order is not as described __label__0
+I have not yet had an answer to my appeal I have not heard of my escalating dispute What I can do __label__0
+they still do not give an answer and I need to continue doing some shopping I wonder if there is any answer for my escalated dispute __label__0
+I still can not make payment How can I pay all my orders with payment __label__0
+I still do not know anything about the dispute I opened dispute and for now nothing __label__1
+Yesterday I placed an order is paid and does not come out in my orders I need to cancel an order but there is option to cancel on My Orders __label__0
+Yesterday I placed an order is paid and does not come out in my orders How can I pay for my orders in one payment __label__0
+Yesterday I placed an order and it is not in my orders How can I pay for my orders in one payment __label__0
+Good day I would need to know if the disputes I had to make already have the refund made I want to know if my order been placed __label__0
+good afternoon it turns out that the protection of the product was finished but I did not get an email notifying that it was about to end and I still have not received the product I returned the product and I have not received the replacement or refund __label__0
+good afternoon I still do not receive my order I need to pay for my order but I still get an error message __label__0
+good afternoon because my payment not been credited Why was my package returned __label__0
+good afternoon about four months ago I made two purchases at two store bought some watches and this is the date and I have not received the order I went to I paid for my order and I have not received it __label__1
+Good afternoon I placed an order and the charge was already made to my credit card but I got an email saying that the payment was not accepted I want my refund I placed an order before and the order was not completed because the seller was suspended __label__0
+GOOD AFTERNOON I WAS SENT A PRODUCT AND THEY HAVE NOT SENT ME AND HAVE ELIMINATED A FOLLOWING OF DHL AND NOW THEY HAVE MADE ME ANOTHER ALL THAT WHEN I HAVE COMPLAINED I have been given tracking number for products destined in another country __label__0
+Good afternoon My payment is not registered How do I check if my payment was made __label__0
+good if you see in my messages How do I get my refund if I do not receive an answer to my requests __label__0
+Good morning I want to change the address for future shipments but it tells that I have to put it in English I am unable to change my email address He says it's already in use __label__0
+good morning they tell that I have an open appeal I already answered them and I sent them what they asked I do not understand why if I did not pay cancel the order and buy other gloves when I saw it I did not notice and I thought of another you canceled and I'm p I have not received the order and the tracking number they gave is wrong __label__0
+good morning make two purchases on Friday The supplier changes the price immediately after you place the order What I can do __label__0
+Good morning if the order does not arrive will the money be returned If I ask now with UPS how many days does the item arrive in my country __label__0
+Change email address by mistake I confirmed the items by mistake __label__0
+I EXPOSE THE DELIVERY CONFIRMATION I can not change the delivery address what to do __label__0
+cancel my order but I was rejected by what I can do I placed an order but they closed it for __label__0
+THEY CHARGED AN ORDER THAT DOES NOT EXIST AND SEND THE EMAIL AS THEY TOLD ME AND I RECEIVED NO RESPONSE I have already paid for the order and it appears as Suspicious Order __label__0
+how to change the cost of Euros to US Dollars once the operation already been carried out that is to say they should be included in my orders as in Argentina I must pay customs tax inUs dollars I am unable to change my email address He says it's already in use __label__0
+How do I change the shipping address of an order How do I change the delivery address __label__1
+How do I change the shipping address of an order How do I change the shipping address __label__1
+How do I change the shipping address of an order How do I change the rating stars __label__0
+How do I change my visa card number Can my Visa gift card work __label__0
+How to cancel an order already sent I have already paid for the order and it appears as Suspicious Order __label__0
+How to cancel an order already sent How to cancel an open dispute __label__0
+How do I get refund without dispute I have an unresolved dispute __label__0
+How do I get refund without dispute Can I trust seller without reviews __label__0
+How is the refund process I sent an appeal for credit card how do I consult the process __label__0
+How is the money transaction if it is safe to buy how long it takes for the product to arrive that dares with customs I have paid once but the money charged is as if I had paid twice __label__0
+How do I track my product They do not accept Business or commercial cards __label__0
+How do I track my product Do you accept PayPal as payment option __label__0
+How disputes work I'd like to talk to someone from the dispute team __label__0
+How do I generate the order on the page How do I consult the website in Russian __label__0
+How do I automatically track the active system the reception and the value and I DO NOT RECEIVE THE ORDER I have dispute and the company not done anything to solve the problem __label__0
+How do I send proof of payment Can they make custom dresses If I send them picture can they do the same __label__0
+How do I deposit the refund money I did not receive refund of my money Two months have passed When will they return the money __label__0
+How paid they do not allow I made the payment by Ticket but it still appears as pending payment __label__0
+How can I change the payment method I made the payment but it appears as not paid __label__0
+as I can do the seller raised the price and told was going to make the return but so far does not return the payment I paid for the order and the seller writes that there is not what to do __label__0
+How can I pay for all the items together Do all the orders come together __label__0
+How can I get in touch with seller How can I get in contact with the seller __label__1
+How can I remove the orders received from my order list Multiple orders are sent as one __label__0
+How can I remove the orders received from my order list How do I pay for all orders in my Shopping Basket __label__0
+How can I track my product Can I receive my product with cash on delivery __label__0
+How can I know if my payment already been evaluated and accepted How can I know if my product was sent __label__0
+How can I know if my product was sent I would like to know why my order was canceled __label__0
+How do I recover my password How can I reset my password __label__1
+how I recover an order canceled by mistake Confirmed by mistake received order __label__0
+how I recover an order canceled by mistake I want to cancel the order There is an error __label__0
+how to get the mobile account from the page with browser I want to reactivate the account __label__0
+How do you open dispute about canceled order How do I open dispute for completed order __label__0
+How do I know how long my order takes Is my order delivered to my address __label__0
+how can I pay my order How can I pay for my entire order with payment __label__0
+buy two smart wristbands and one of them does not work stopped working I try to use the discount code and today it does not work __label__0
+buy two smart wristbands and one of them does not work stopped working I have debit card and it expiration date __label__0
+I bought elephone phone in store store and sent it too late it is more likely that they do not have the product Can you confirm that the product is in stock __label__0
+I bought an item but the seller indicated lower price of the real one and the customs of my country I return it The supplier raises the price of the products and requires an extra payment __label__0
+I bought an item but the seller indicated lower price of the real one and the customs of my country I return it How to see the price of product __label__0
+I bought mobile I was late but when I got there the microphone did not work They say they sent an email but I do not know where __label__0
+with someone who is not robot I do not want to connect to robot __label__1
+with whom I can communicate to give solution How can I get the order sent to quickly __label__0
+contact Spanish operator How can I contact seller if it is not already listed __label__0
+contact representative I need to speak with representative __label__1
+email to contact I receive an email that new email arrived __label__0
+THING THAT HAD NEVER HAPPENED IN A SHIPMENT COLLECTED TAXES I never received refund __label__0
+I think salesman cheated I have been charged for something I have not asked for __label__0
+What is the security code Is the safety of the products regulated __label__0
+What is the way to pay with the refund money that you made The seller told to cancel the order to return the money What I can do __label__0
+WHEN IN ORDER LOCATION SHOWS THIS Processing of funds WHAT DOES IT MEAN What does the Funds Processing state mean __label__1
+when I give him pay only gives the price of an article How to see the price of product __label__0
+WHEN I GET A TRACK NUMBER OF DHL BUT I DO NOT FIND THE TRACK PORQ I have been charged but the order is still pending payment __label__0
+when they will return my refund It gives an error when I try to buy __label__0
+when they will return my refund Why do not I receive refund for the order __label__0
+When payment I get error in payment Do I need to log in to the DOKU account when I make the payment __label__0
+When I select all the products the cost of the shipment I want it to be that of single product How can I pay for all my products in the shopping cart in one payment __label__0
+When I select all the products the cost of the shipment I want it to be that of single product When I buy product in the Basket the promotion price is not available __label__0
+when the holiday period ends I see that the supplier did not send my order and does not answer The seller discounted the price but when I place the order I see the previous price __label__0
+when I opened the disputes They charged on my credit card when I never bought them anything __label__0
+when I opened the disputes Do they return the coins when I cancel an order paid in advance __label__0
+HOW MUCH TIME SHOULD I WAIT FOR REIMBURSEMENT Why should I wait for the seller to answer my dispute __label__0
+how long it takes for refund How long can I receive the refund __label__1
+how long does it take for an appeal How long is dispute __label__0
+how long does it take for an appeal I sent an appeal for credit card how do I consult the process __label__0
+there must be an easy way I can not waste more time to change few simple numbers Is there way to make delivery faster __label__0
+Should I pay for the shipping costs of product that I sent for repair How much do I have to pay for taxes and customs fees __label__0
+I must wait for the refund to make new order I have canceled my order when can I expect refund __label__0
+Should I do it one by one of each item of the order or would there be some way to open dispute for the total order I paid with WebMoney Why is the status of the order still Pending payment __label__0
+I decided to return the money and I'm still waiting Open dispute month ago and I'm still waiting for an answer __label__0
+from the month of April request an order I want to track an order __label__0
+I WISH TO COMMUNICATE WITH THE ASH OPERATOR What is the situation with my dispute __label__0
+I WANT TO USE ANOTHER BECAUSE THE PREVIOUS ONE Can you send the goods again if I have already paid __label__0
+sorry I have doubt because my order not been sent Why my order been closed by Not sent __label__0
+where I change my payment card How do I change my email address __label__0
+where I change my payment card I receive an error message when I make my payment with credit card __label__0
+where is my order and it appears as delivered I already made my payment but it appears as not paid What I do __label__0
+Where the card with which you pay appears I have changed the card I used for the order __label__0
+Where can I start chat I can not log in to my account What I can do __label__0
+Where can I see how long I have guarantee Where can I see the tracking number __label__0
+Where can I see how long I have guarantee Can I ask about the processing time __label__0
+and canceled an order by mistake I made duplicate payment by mistake __label__0
+I canceled an order by mistake as I can restore it I confirmed the order by mistake __label__0
+cash I get the card and I do not want to use it anymore I have sent photo of my ID and credit card What is going to happen __label__0
+I have canceled an order by mistake My order was canceled due to suspicion how to receive refund __label__0
+the money was already returned week ago How do I get my money back __label__0
+the dispute form does not work The dispute form does not work __label__1
+The dispute form is not displayed correctly I have filled out the dispute form how do I receive my refund __label__0
+The tracking number does not work My tracking number never works __label__1
+The other day I bought and canceled an order now it is in final status but it is charged on my credit card I have been charged for the payment but it is not reflected in the order __label__0
+The payment is on my debit card and if I have resources in fact last night I did some shopping without problems How do I pay for my debit purchases __label__0
+The order is incomplete The order was closed the system is pending to make the refund __label__0
+The order is paid and appears as NOT paid please solve I have paid and my order been canceled by email __label__0
+I placed the order more than month ago Open dispute month ago and I'm still waiting for an answer __label__0
+The order received is not the agreed one I have not received the coupon __label__0
+The product will not arrive and will not let open dispute The system does not let pay __label__0
+the supplier sent package with single order number for two different customers How much time do I have to return package __label__0
+received the wireless selfie stick and I ordered it with cable What happens if the order tracking and I have not received it __label__0
+received the wireless selfie stick and I ordered it with cable Is the order number and the tracking number the same __label__0
+The refund an error in the exchange rate What is the exchange rate of the dollar for today on the purchase of production on your page __label__0
+the protection time ended How long does the processing time take __label__0
+the protection time ended Can I shorten the processing time __label__0
+the seller approved the cancellation when I receive the refund The seller does not want to approve the refund __label__0
+the seller approved the cancellation when I receive the refund The seller agreed to reimburse the money how do I receive it __label__0
+the seller closed the dispute The seller told I could reopen the dispute __label__0
+the seller says I have not paid I wonder when I will receive the item I paid for __label__0
+the seller says that they will not pay The seller told that it is not possible to send the article __label__0
+the seller tells to generate purchase order and they will change the price so I can buy What do you do then if you can not contact the seller __label__0
+the seller asked to cancel my order due to messaging problems in Mexico Will I be refunded if the seller fails to send my order __label__0
+the seller asked to cancel my order due to messaging problems in Mexico The seller sends the package by free shipping instead of EMS __label__0
+The seller does not answer the messages How do I send messages to the seller __label__0
+the seller does not answer my message How do I respond to the seller's message __label__0
+the seller did not send the product and it blocked The seller now asks for more money for the product __label__0
+the seller was left to send the pieces to fix bracelet I bought few months ago because it came with factory defect still nothing happens that I should do A dispute open some time ago The seller does not say anything __label__0
+The seller refuses to give the guarantee of damaged product Can you give the name and address of the seller __label__0
+the seller raised the price after placing the order and does not accept that cancel the order The seller does not respect the order __label__0
+the seller price charged more expensive The seller longer stock of the item __label__0
+In August I placed an order with guest session I have not placed an order but I received payment email __label__0
+in the status of my order says delivered and nothing come to On the website it says that my order already been delivered but I have not received it __label__1
+Waiting for reception which means What does Pending payment mean __label__0
+in the description of it comes large clock printed on the sheet in the rest of the sheets only that thinking it was watermark or similar How can I pay for all my products in the shopping cart in one payment __label__0
+in my dispute the order was already received if I cancel the dispute they would give the money to the seller I opened dispute but the seller rejected it and kept my money __label__0
+in my dispute the order was already received if I cancel the dispute they would give the money to the seller What will happen if the seller approves the dispute __label__0
+understand that I have been waiting for the product for more than four months I'm waiting for the mediation to be completed It's been months __label__0
+I understand then to withdraw that money what would be the options that I have There is bank transfer in the payment options __label__0
+I understand then that I only have the right to receive the refund and not the order then I have to buy the product but I do not understand the sizes __label__0
+Send the product and to the dispute I have dispute and the company not done anything to solve the problem __label__0
+is that I do not understand what is happening with the payment How do I know that this is legitimate company __label__0
+is that I have not received my orders and I ordered them more than month ago I accidentally pressed the button to confirm the order and I have not received the products __label__0
+is that I can not enter ami cent I can not enter my account __label__1
+is that I do not have the order I paid for an order and it's frozen what do I have to do __label__0
+It is number of appeals Will I receive notification email if my order is canceled __label__0
+It is true that I am obliged to pay with the shipping costs to return the product I received very offensive email from merchant with whom I am in dispute __label__0
+those questions do not solve my problem I have problem paying with my credit card __label__0
+Those answers do not answer my question I want to cancel an escalated dispute except the seller's answers __label__0
+That last message I sent by mistake there is dispute ended because it not even opened I accidentally confirmed the reception of the package the package not even arrived __label__0
+esq on my cell phone it appears that my product is coming and on the page it tells that it still does not arrive which is the most real The seller promised that if I canceled the dispute I would make the refund I can trust him __label__0
+It is finalized and does not answer I have made an online payment and it ended __label__0
+was trying to open dispute but says that the expired period I am trying to pay with Visa credit card but it always says that the payment failed __label__0
+was trying to open dispute but says that the expired period I am not able to open dispute __label__0
+was trying to open dispute but says that the expired period How can I extend the period of receipt of the shipment __label__0
+this seller is cheating the users Can you tell if this seller is good or not __label__0
+this is fraud If they do not solve my problem I'll go and file complaint I can not put new address __label__0
+this is fraud If they do not solve my problem I'll go and file complaint I have problem with my order at customs Can you send copy of my invoice __label__0
+this is fraud If they do not solve my problem I'll go and file complaint How do I check my abuse report on valuations __label__0
+I'm in dispute with seller I'm looking for seller that I ordered before Can you help __label__0
+I'm waiting for an answer for my problem My order is still waiting to be sent __label__0
+I'm waiting for my appeal Why am I waiting for the other party's response __label__0
+I'm waiting for an answer to the background sent to Jose I am still waiting for my partial refund for this order __label__0
+I am waiting for reply from the seller they will not cancel the order but I will change the size Open dispute month ago and I'm still waiting for an answer __label__0
+I am waiting for reply from the seller they will not cancel the order but I will change the size I am waiting for the refund of product __label__0
+I'm waiting an answer I'm waiting for my refund When will I have it __label__0
+I'm talking to machine I'm having problems with seller What I can do __label__0
+I'm talking to machine I am not satisfied with the result of the claim __label__0
+I'm trying to open order disputes that I have to return but when I give it to send it does not send it I want to know how much I have to wait if I'm in Spain __label__0
+I'm trying to make some payments while ago and I have message from I'm trying to answer message but the program does not accept text __label__0
+Am I wasting my time and money with you My processing time is over and I want to extend it __label__0
+Eva you're crap How do I respond to an assessment __label__0
+Eva you're crap I want to cancel purchase __label__0
+I went to the Post Office to pick up my package and it says that they returned it to origin It says that my account does not exist __label__0
+Thank you I have paid an order for paypal but the seller tells that it is not yet accredited The seller does not have the product for which I paid __label__0
+talk with customer service I would like to speak with customer service agent __label__1
+days ago the seller wide the protection of the order I accepted the seller's solution by mistake __label__0
+few days ago I had problems to make my purchase I was asked to send some documents to verify my identity and I already sent them that's why I want to know if the problem is already solved When do I have to verify my identity when placing an order __label__0
+few months ago I bought amber bracelets they arrived and one month it broke it opened alone apparently it was bad factory since it turned itself sent message to the seller and told that would send amber to fix it I said that if it was pos I do not want my email to show to the provider __label__0
+few months ago I bought some amber bracelets they came and all the photos of single song single photo couple of bad guys from the factory and that was turned solo the message message to the seller and told to send amber for to fix it How can I put all the products in the Basket to have single payment order __label__0
+I do what they tell but it does not give solution since I do not upload the photos How can I access read the ratings that the sellers have given __label__0
+I DO ALL THE STEPS BUT DO NOT LET ME SAY ERROR When I receive the email with my order I click on it but it says that I can not see it __label__0
+they have extended the protection time several times Can I make several wish lists __label__0
+It's been several days now and I need to buy the dress I want to buy several products from the same seller __label__0
+So far it not reached my bank My order was canceled but they charged from the bank __label__0
+You have to open dispute for each article I would like to open dispute for the order __label__0
+I have canceled the order and they have charged and I want to recover the purchase I want to know why I have been overcharged for my order __label__0
+I have changed the card where they have to make the return I confirmed the reception by mistake what can I do __label__0
+I have canceled an order but I have already deducted the money from the bank I paid for an order but it was canceled The seller not returned the money __label__0
+I have canceled an order and I have been charged Why have I been charged twice for an order __label__0
+I have canceled an order and I have not received the refund Order canceled by the seller and I have not received the money __label__0
+I bought cell phone month ago and it stopped working it turns off on its own I can not turn it on I have bought several things and each item different seller I want to buy everything from single seller __label__0
+I bought product and I want to cancel it and I can not I bought product and I have not received confirmation email __label__0
+I bought product and I want to cancel it and I can not I ordered product and I never received it __label__0
+I have bought several products several times from China but now that I want to buy phone I realize that they are longer shipping to my country Now an email arrived that says that my order been canceled because I did not pay __label__0
+I have bought several products several times from China but now that I want to buy phone I realize that they are longer shipping to my country On the website it says that my order already been delivered but I have not received it __label__0
+I have gone to the article in question and I do not see how I should do it since it is closed I have already paid for the order and it appears as Suspicious Order __label__0
+I have paid but it does not come out in my orders Can I use my coupons in combined orders __label__0
+I have lost the order number I lost my password __label__0
+I have lost the order number I have not received the order and the tracking number they gave is wrong __label__0
+I received my order but it is incomplete I have ordered products but I have not received my order __label__0
+I have requested cancellation I used MasterCard but it does not work __label__0
+I tried to make purchase week ago but when I go to turn it off I can not I made purchase but the store does not exist __label__0
+I have verified my data several times Why have I paid twice __label__0
+I have seen in my order that they have sent it back to the sender The tracking information suggests that the products have been returned to the sender __label__1
+I have seen in my order that they have sent it back to the sender I can not respond to the message I received from my vendor __label__0
+I have seen in my order that they have sent it back to the sender How do I pay everything in my basket at once __label__0
+I DID OTHER SHOPPING IN THIS STORE AND IT WAS VERY GOOD My credit card been stolen and someone used it to buy something in their store __label__0
+I placed an order as guest and I can not access How do I log in as guest __label__0
+I placed an order as guest and I can not access I placed an order and the seller asked to cancel it __label__0
+I placed an order for several items and are sending them separately How do I have to make the whole order shipped in one package If I cancel an order that I have made will all the money be returned to __label__0
+I MADE AN ORDER MADE FOR SEVERAL DAYS I did not place an order Someone used my card __label__0
+I placed an order I paid and now they send that message I placed an order but they did not give any tracking number __label__0
+I placed an order and did not come A week ago I placed an order and I paid I want to cancel it __label__0
+I made transfer as I check that it is already paid Is this company you can trust __label__0
+I made two orders and one did not arrive confirm one that arrived but the seller tells that I already received them both On the website it says that my order already been delivered but I have not received it __label__0
+I made two orders and one did not arrive confirm one that arrived but the seller tells that I already received them both What is wait for the seller to confirm the account __label__0
+HELLO I MADE AN ORDER ON MONDAY AND NO RESPONSE MAIL HAS ARRIVED PLEASE NOTICE FELIPE I placed an order and I paid I want to cancel it __label__0
+Hello the seller canceled my order how do I get my money back If I cancel my order can you tell how long the refund will take __label__0
+hello in my computer in the searches I get very few results in others many do not know where the problem is How do I change the language in my account __label__0
+hello in my computer in the searches I get very few results in others many do not know where the problem is Why is the order not shown in my account __label__0
+Hello I need to know how I pay for my order I want to know if my order was successful __label__0
+hello good day I still have not received my orders I want to delete all my orders __label__0
+Hello good evening how do I cancel my order How do I cancel my membership __label__0
+Hello good night I need to send the phone for the replacement warranty I would like to know where I send it and what I have to include data I have registered and I need the coupons mentioned on the website __label__0
+Hello good night I need to send the phone for the replacement warranty I would like to know where I send it and what I have to include data Will you send an email to let know that the money been refunded __label__0
+hi good morning have made restriction to my account alleging abuse of buyer protection Can I change my buyer account to seller account __label__0
+Hello how can I know which card pays for my order Can I pay for my order with my Brazilian credit card __label__0
+Hello how can I know which card pays for my order I would like to know how I can cancel my order __label__0
+Hello I am interested in Chinese order and they ask to pay through Western Union and they give name and phone number From Western Union they tell that this is service to send money between people who know each other not stranger Is it reliable When will I be refunded the money for canceled order __label__0
+hello I'm looking at the tracking of an order and I notice that the shipping address is not correct The tracking code is incorrect so I can not know where my order is __label__0
+hello I'm looking at the tracking of an order and I notice that the shipping address is not correct I want to track an order __label__0
+hello eva which means that the order is pending shipping I have paid for an order but says it is still pending payment __label__0
+hello eva which means that the order is pending shipping My order was frozen after the order verification because the seller is being investigated __label__0
+Hello few days ago claim that my order list was not purchase that made they said they would study but I do not see results I want several orders sent to together __label__0
+Hello few days ago claim that my order list was not purchase that made they said they would study but I do not see results I would like my products to be sent to new address __label__0
+Hello the refund of the amount paid not been refunded to my account I would appreciate refund the amount of my order My order was closed because the seller's account been disabled __label__0
+Hello I have bothered you many times to pay and I can not do it I want to talk to other sellers about the products I have bought How can I do it __label__0
+Hello they just sent this message Hello Please process the dispute again to be able to make the refund of your order since we have received the refund for your part While waiting for your news I take the opportunity to send you greeting Please change the delivery address I was wrong __label__0
+Hi it tells that it is expired to open dispute and I do not arrive in Chile I want my refund I have not received my order and I want my money back __label__1
+hello I would like to know how to qualify seller I would like to know the ratings of seller __label__0
+hello my order not yet arrived and it should have been arrived My products have not arrived __label__1
+hello I need an advisor Do I need something to request refund __label__0
+Hello I need to change the shipping address I need the seller's address for the post office __label__0
+hi fund processing takes more than days What does the remaining processing time mean __label__0
+Hello what can I do if my order was canceled and payment is already made Why is my payment being verified again if it already been confirmed __label__0
+HELLO I want to change credit card that I have unsubscribed and register new one thanks I want to change the data on the card __label__1
+Hi I would like to know if my package is on trip I want to know if my order was sent __label__1
+hello I would like to know about my order How do I get information about my order __label__0
+Hi I'm Jose Valdes you can help with the product that did not arrive I can not track my products with the code that the seller gave __label__0
+Hi I'm Jose Valdes you can help with the product that did not arrive I received the product and they gave back the money __label__0
+Hello I have an appeal but change my form of payment by free market and bank transfer Will I have problem to confirm my payment How do I send my payment via bank transfer __label__0
+Hello I have two orders with error in the delivery to the airline for several days What is going on with them There was an error when paying with Visa What happens with the system __label__0
+hello I have problem with my payment I have problem with the success of my payment __label__0
+Hello I have several orders that have already passed the delivery date and the sellers just keep saying wait there are orders that have too much time expired I want refund If I place several orders how many times do I have to pay for the shipment __label__0
+Hello I have several orders that have already passed the delivery date and the sellers just keep saying wait there are orders that have too much time expired I want refund I paid all my orders but the sellers say I have not paid __label__0
+Hello I have problems with three sellers I have problems with attachments __label__0
+Hello I have problems with three sellers I have problems to correct my shipping address __label__0
+Hi how can I receive the invoice for each order Can I place an order as guest __label__0
+Hello today I have not received any news of the order I have not received refund of the order number __label__0
+Hello when trying to make payment I mark error I just want to place an order for product instantly __label__0
+Hello when trying to make payment I mark error There is failure to place the order and there is error message __label__0
+Hello when trying to make payment I mark error I receive an error message Incorrect password __label__0
+hello is that I have several orders about to expire the protection time How long do I have to wait after the package comes out __label__0
+Hi it's been over month since I sent you the broken phone and I have not received anything yet I sent them the photo of the receipt as I had sent I have sent them copy of my credit card my statement my identity What is going to happen __label__0
+Hello I try to leave valuation of the orders and at the beginning I mark the five stars of which I am very happy and when giving to leave valuation I get other stars and letters piled up and I can not leave valuation because I can not by much I am not satisfied with the service I received How can I leave valuation __label__0
+Hello the protection is about to end and I have not received my products I can not open dispute Can I open dispute after confirming that I have received an order __label__0
+Hello the protection is about to end and I have not received my products I can not open dispute How can I pay for all my products in the shopping cart in one payment __label__0
+Hello the card that I am using will stop serving in few days I want to know if I can ask for the refund to another card number in case I have refund Thank you I'm waiting for the refund on my card how long will it take __label__0
+Hello I would like to get an invoice for my order I would like to track my order __label__0
+Hello I would like to know what is your best smoke sensor which I would advise buying for small apartments for hotel use please I would like to send you an email what is your address __label__0
+Hello I have not received portfolio that I bought and can not find the shipping number I am not satisfied with the service I received How can I leave valuation __label__0
+Hello I do not record the valuations I enter to value the product but I do not record the valuation How can I access read the ratings that the sellers have given __label__0
+Hi I can not access my account I can longer access my account __label__1
+Hi I can not access my account How can I deactivate my account __label__0
+Hello because I leave sorry we can not participate in this promotion Sorry at this time there is nothing available to ask __label__0
+Hello because I leave sorry we can not participate in this promotion Sorry your search does not match any product __label__0
+Hello I can pay with visa card in installments from Chile When can I pay for my order with Visa Debit card __label__0
+hello which means data processing I received my order but I can not delete the order of my my orders On the website it says that my order already been delivered but I have not received it __label__0
+hello which means data processing I received my order but I can not delete the order of my my orders My order was canceled but I received things from this page __label__0
+Hello I wanted to know what is the total amount the sum of all the orders I have made I can not find the orders I have made __label__0
+Hello I want to agree to send an order from single store I want to track an order __label__0
+Hello I want to cancel an appeal and pay with another means of payment I would like to pay half with credit card and the other half with another credit card __label__0
+Hello I would like to know how to change my mail How can I change my country __label__0
+Hello I followed those steps but the page throws error when I pay It gives an error when I try to buy __label__1
+Hello I followed those steps but the page throws error when I pay I have been charged but the order is still pending payment __label__0
+Hello I followed those steps but the page throws error when I pay I receive an error message when I make my payment with credit card __label__1
+Hello I have problem with orders placed and not listed in my order list so I can not track them I have problem with tracking my order __label__0
+Hello I have problem with orders placed and not listed in my order list so I can not track them I have problem with my order The seller is liar and man __label__0
+Hi How long does it take to return canceled order Thank you How long will the payment be received by bank transfer __label__0
+Hi I placed an order and I do not know what happened with it Also I have not received purchase notification Can I open dispute after confirming that I have received an order __label__0
+Hi I have been trying to repair or change the product for more than two months I do not get it I think they're kidding Can I make the product arrive faster __label__0
+Hi I received delicate order ROTO A GLASS DIFFUSER The order not arrived yet __label__0
+Hi You can not pay I put the data on the card and it appears that I do not have balance or that the data is incorrect I want to ask if all the sellers are from China or there are other sellers __label__0
+Hi I want to change some numbers for others that I do Why are you still asking to log in when I make the payment __label__0
+Hi I requested the cancellation of the order and the seller canceled it But to the days I have been charged I have been charged for the payment but it is not reflected in the order __label__0
+Hi I requested the cancellation of the order and the seller canceled it But to the days I have been charged The seller vanished and I can not find it __label__0
+Hi I want to change my data for the data of company How can I change the terms of the dispute __label__0
+Today and gone to the bank and I have not made the income Why did they charge twice in my bank account for the order __label__0
+Today reviewing the status of the payments appears to have not been paid but the charge to my credit card already been made I made the payment but it appears as not paid __label__1
+gone my product I was informed by chile couriers the following Diplomatic Post Office __label__0
+I try to search my account for the order number but I do not see it anymore How do I get something out of my order I do not love you anymore __label__0
+fuck male I want to talk to human being I want to talk to person not robot __label__1
+THE SHIPPING ADDRESS IS ERRONEOUS I have address for the return __label__0
+the location of my orders is not correct Can I change the size of my ordered items __label__0
+the merchandise received is not the agreed one The seller sent the goods to another country __label__0
+the merchandise received is not the agreed one I wonder if it takes long time for the goods to arrive __label__0
+THE PAGE DOES NOT ACTIVATE THE CLAIMS I have registered and I need the coupons mentioned on the website __label__0
+The page does not let track the order It does not let write in the text box of the message __label__0
+the protection to the purchase already finished How to buy the products in the Shopping Basket __label__0
+Last week I filed claim and I have to return the order I have dispute and the company not done anything to solve the problem __label__0
+I have written to him many times and never answered the message Why the payment been made twice on my credit card __label__0
+I send messages to the seller and it does not solve anything to get my money back They made the refund but I received the order How do I return the money to the seller __label__0
+I send messages to the seller and does not respond The seller does not answer my messages __label__1
+I follow up and it is delivered but not to my address On the website it says that my order already been delivered but I have not received it __label__1
+key to the couriers of chile and the products were returned to the seller the products I asked them to come to my house and never happened they were only sent to the post office but they did not arrive at my house Now I want the money back The packages were returned to China __label__1
+key to the couriers of chile and the products were returned to the seller the products I asked them to come to my house and never happened they were only sent to the post office but they did not arrive at my house Now I want the money back I paid for the products and they are not on the order list __label__0
+I have been trying for days to respond to either for the order or the money and neither of the two The brand or type of your card is not supported __label__0
+I've been waiting since March I am waiting for the refund of product __label__0
+I have been unable to pay for payment errors for weeks Can I cancel an order without paying __label__0
+cancel it when they were checking the payment Why does it say your previous session expired when I make the payment __label__0
+I have done it repeatedly I want to buy custommade dress how do I do it __label__0
+I received it well but the product does not work I received the order but the items do not work __label__1
+I received it today and I am very satisfied I would like to change my assessment but I do not know how I should do it I have already paid for my order but it appears that I have not paid yet what to do __label__0
+what happens is that I already cancel an order because the seller is slow to process my order and would like to know how long it takes to receive the payment refund How long does it take the supplier to process my order __label__0
+what happens is we already made claim Why is my payment less than what I paid __label__0
+WHAT I RECEIVE FROM THE SELLER IS NO RESPONSE AND FROM THE COMPANY Dhl is that the order number does not exist or changed the order number please help Why am I waiting for the other party's response __label__0
+I have it in my order list and it does not give the option to delete it Do I have to take my purchase at the post office __label__0
+The products I ordered already arrived in the country of destination week ago I would like to know when you will arrive at my address I would like to know when my order will arrive __label__1
+But the dispute I accept or reject Attached to open dispute __label__0
+I just got an appeal approved and it makes an error when it comes to paying I can not register and there is error message __label__0
+it appears to in my cell that is about to arrive Why does the system tell that I can not participate in this promotion __label__0
+I get an error when paying I want to pay the seller __label__0
+I get an error when paying It gives an error when I try to buy __label__1
+THEY CHARGED ME FOR MORE IN SHIPPING SERVICE PAY BY UPS AND SEND IT TO ME BY EMS WHICH IS MORE CHEAP Why did they charge before delivery __label__0
+They give the money back when I cancel the order If I cancel an order that I have made will all the money be returned to __label__1
+it tells that the system is busy The system is not available __label__1
+they tell they will send an email and they never write to I would like to delete an order __label__0
+they tell that I received the product but in reality nothing came to The seller does not have the shoes I ordered but does not answer __label__0
+they tell that I received the product but in reality nothing came to Now an email arrived that says that my order been canceled because I did not pay __label__0
+they tell that I received the product but in reality nothing came to The seller promised that if I canceled the dispute I would make the refund I can trust him __label__0
+I find myself on appeal how long it takes How long can I receive the refund __label__0
+you understand that by human error I confirm that my order arrived but not arrived I just received an email saying that my order been closed for not paying But I paid __label__0
+they send empty packages Is it possible to combine my packages in one __label__0
+they send empty packages How can I track my packages sent by mail __label__0
+They send an email saying that the payment been made successfully but few weeks later they send another saying that the shipment been canceled because the payment not been made I have placed an order with you but my order been canceled due to payment failure __label__1
+They sent in message that says They sent the wrong size __label__0
+They sent in message that says I have noticed that my order says Pending acceptance what do you mean __label__0
+his salesman cheated and they do not give solution The seller said there was stock and asked to cancel it __label__0
+they are asking for the purchase invoice The amount of the invoice is not the same as that of the orders __label__0
+I would like to speak with someone Someone help resolve my dispute __label__1
+I would like to speak with someone I need to talk to the sales representatives __label__1
+I would like to speak with someone in Spanish My page is in Spanish __label__0
+I would like to ask about when to open dispute I would like to stop an escalating dispute __label__0
+The seller closed the dispute My order was closed because the seller's account been disabled __label__0
+The seller closed the dispute The seller sent the wrong size __label__0
+The DHL delivery man called The seller tricked __label__0
+They have communicated to the closing of dispute But only two articles are closed and the rest are not The order is canceled but the money not been refunded __label__0
+They have communicated to the closing of dispute But only two articles are closed and the rest are not I opened dispute but the seller rejected it and kept my money __label__0
+they sent message that they have delivered package They have tricked What I can do __label__0
+I HAVE CONFUSED AND DO NOT LET ME DO IT I wonder if I can bargain my purchases and how to do it __label__0
+I HAVE CONFUSED AND DO NOT LET ME DO IT I am trying to pay with Visa card and will not let pay __label__0
+I HAVE CONFUSED AND DO NOT LET ME DO IT It does not let click on Open dispute __label__0
+I HAVE CONFUSED AND DO NOT LET ME DO IT Your email will not let unsubscribe __label__0
+I HAVE BEEN IN CONTACT THIS AFTERNOON WITH YOU BUT I THINK THAT BY ERROR I HAVE GIVEN YOU AN ERRONEO ORDER NUMBER I have placed an order with you but my order been canceled due to payment failure __label__0
+I have contacted and they tell to talk with you I have married and my last name changed __label__0
+could you help with the appeal that I have I have problem I have problem with the payment __label__0
+Could you please tell what I can do to know where my order is What can I do if my package is held by customs __label__0
+Can person help Why have I received an order from another person __label__0
+Can person help I want to talk to person not robot __label__1
+Can you help with some shipments that I have not received I have not received the merchandise __label__1
+Can you help with some shipments that I have not received I have not received my order __label__1
+Can you tell how I can earn money working from home How can I get my money back __label__0
+can you communicate with another person My merchandise been sent to another person __label__0
+can you give some clear answer why my things have not arrived Can you give phone number __label__0
+Can you tell how much time I have to open dispute after receiving the product How long does the processing time take __label__0
+Can you tell how much time I have to open dispute after receiving the product How much time does the provider need to process my order __label__0
+I contacted you last month I have placed an order with you but my order been canceled due to payment failure __label__0
+I get it that I have an error How do I know if I have to pay taxes on shipment __label__0
+I put an appeal you can help I would like to stop an escalating dispute __label__0
+my account been deactivated and package was sent to the wrong address The package been sent to the wrong address __label__1
+My dispute does not appear on my list of disputed orders I can not find it in my order list __label__0
+my order appears as delivered to another address it not arrived My product been delivered at another address __label__1
+My order appears as delivered and I have not received it I've already paid but it seems like I did not __label__0
+My order appears as delivered and I have not received it I have not received the refund and my order been canceled __label__0
+My order is withheld at customs and they do not give it to Sorry you can not participate in this promotion __label__0
+My order is in dollars and I want to pay in euros I do not want to pay traffic on transport __label__0
+My order does not deliver and I want my money back I want to cancel my order and receive refund __label__0
+my order is not like on the web How do I consult the website in Russian __label__0
+my order not arrived and the buyer protection time is about to end The Buyer Protection is over but I have not received my order because the seller kept telling to wait __label__0
+MY ORDER HAS NOT BEEN SENT The order not been sent __label__1
+my order will be closed in two days Why have I been charged twice in my account for the order __label__0
+my order returned to the seller and I did not send it back to My order was canceled How can I do it again __label__0
+My order is already paid but I do not know which card to use On the website it says that my order already been delivered but I have not received it __label__0
+My order is already paid but I do not know which card to use I have already paid for my order but its status not changed __label__0
+my problem is that is asking capcha to keep using my account I have problem with my order The seller is liar and man __label__0
+MY CREDIT CARD IS IN DOLLARS AS I PAY EUROS How do I pay with my credit card __label__0
+Look the other day I made claim with partner of yours How to cancel claim __label__0
+look in January buy speaker and it does not reach I'm trying to place an order and for some reason it will not let __label__0
+I look at my order list but I do not know how is the status of my orders How can I delete the received items and unpaid items from my order list __label__0
+My cards have already been reviewed and approved I opened dispute and my application already been closed __label__0
+thank you very much I just want my card to be safe I can not put my address on the page it says it's only accepted in English __label__0
+thank you very much I just want my card to be safe I want to pay with my bank card __label__0
+Thank you very much Antonio I have tried with Google Chrome and I have been able to pay without problems Excellent work Congratulations Best regards I placed an order and I put the wrong address __label__0
+none of this is helping I need the email address of this company __label__0
+nobody can help perform Can anyone be member __label__0
+I NEED TO OPEN DISPUTE AND I HAVE NOT RECEIVED THE ORDER How can I open dispute if the order is completed __label__0
+I need help with package I need help with the guarantees __label__0
+I need to change the euro currency to pesos or dollars The brand or type of your card is not supported __label__0
+I need to change the secret questions I need to change the email address __label__0
+I need to consult about my verification process How do I complain about seller __label__0
+I need to converse with support I need human assistant __label__0
+I need the link to enforce the warranty of my cell phone it does not work Where do I go to track my order __label__0
+I need invoices of what I bought Where can I see what I paid for __label__0
+I need to talk to someone I need to talk to person __label__1
+I need to speak with an agent to help know how I do it so that I can solve the problem I have with the mobile and the company that sold the mobile phone through your page I would like to speak with customer service agent __label__1
+I need to talk to person not machine I need to talk to person __label__1
+I need to talk to person not machine I need to talk to the customer __label__1
+I need to make refund I live in China and I need to buy product Is it possible to do this __label__0
+I need to make purchase I need new password __label__0
+I need to make return I need to make claim about some sellers __label__0
+I need to make return I need copy of the receipt __label__0
+I need to make some urgent purchases It says that my account is not authorized to make purchases __label__0
+I need information about my refund I need to change the amount of the refund on my order __label__0
+I need the invoice of my purchase how do I get it I need an invoice for my purchase __label__1
+I need the invoice of my purchase how do I get it How do I delete product from my Shopping Basket __label__0
+I need the invoice of the order placed where can I find it How can I print the invoice of my order __label__0
+I need the steps to follow to make purchase after refund I need an invoice for my purchase __label__0
+I need my money back I need the shipping number of my order __label__0
+I need tracking number of my order I need my tracking number __label__1
+I need you to send the shopping cart because they ask to withdraw from the running The sellers ask you to make the payment before sending the products __label__0
+I need to recover my order I need to know if I can receive my order on time __label__0
+I need to know the name of the person who made payment with my card I used my grandfather's card should I put everything in his name __label__0
+I need to know the name of the person who made payment with my card I have problem paying with my credit card __label__0
+I need online support I need to pay in several installments __label__0
+I need online support I need to change the amount of the refund on my order __label__0
+I need to ask another question in Spanish A transaction been made on my credit card by someone else What I can do __label__0
+I need to ask another question in Spanish I want to put half in one and the other half in the other __label__0
+none of those questions contains my concern I have not received any confirmation after paying my order __label__0
+none of the above until now I have been trying to resolve diplomatically So far my order not arrived __label__0
+none of the options that you show is my problem How do I unsubscribe from promotions by email __label__0
+None of the answers given correspond to what happens to I want to cancel an escalated dispute except the seller's answers __label__0
+None of the answers given correspond to what happens to How can I access read the ratings that the sellers have given __label__0
+option serves The seller does not answer __label__0
+none of the options is Can I use other payment options other than credit card __label__0
+I do not think I'll buy anything more valuable I just bought product and I need you to send it to different address __label__0
+I have not received the refund even of dispute My refund not been received after the dispute been resolved __label__1
+I have not received the refund even of dispute Can I open dispute after confirming that I have received an order __label__0
+I can not find the order list How do I delete the list of My orders __label__0
+I do not understand why sent for appeal I have to buy the product but I do not understand the sizes __label__0
+I DO NOT UNDERSTAND BECAUSE THERE ARE NO PEOPLE WHO ATTEND THIS I received an email saying that the order been canceled because I have not made the payment __label__0
+it is not cancellation please read well No more emails please __label__0
+it is not dispute is guarantee How can I open dispute if the status is finalized __label__0
+it is nothing of what puts there Why is the payment received less than what I paid __label__0
+I do not agree with the final resolution I do not agree with the resolution of the dispute __label__1
+There is way to talk to person Is there another way to pay for an order without using credit card __label__0
+There is one to answer Is there an option for fast delivery __label__0
+I have not logged in or I have not closed correctly I have closed the chat window with the service team by accident What I can do __label__0
+I have not been able to pay for some products I can not pay for the products the payment does not work __label__1
+I have not been able to make the payment with my American Express cards How can I pay with my American Express credit card __label__0
+I have not been able to make the payment with my American Express cards I have already made the payment with Ticket __label__0
+I have not been able to request the things I want to buy because they appear on appeal Do the things of several sellers come in box __label__0
+I have not received the order sent since it been delivered to another person I needed the order within the deadline but What happens if the seller does not accept or reject my dispute within the deadline __label__0
+I have not received the product and it tells that the seller canceled my product What I do I confirmed that I received the product and it was by mistake I have not received the product yet __label__0
+I have not received the refund I received the wrong package It's not mine __label__0
+I have not received the correct amount I just ordered product online but I have not put the correct address what can I do __label__0
+I have not received the correct amount I was charged the wrong amount __label__0
+I HAVE NOT RECEIVED THE INVOICE I have received the merchandise and also the full refund __label__0
+I have not received my order and it says that I have finished I want to confirm that I have received my order __label__0
+I have not received my order and it says that I have finished I paid for my order and I have not received it __label__0
+I have not received my product and I can not make dispute My product is blocked and I would like to know what I can do __label__0
+I have not received my refund for cancellation of order I have not received refund for the dispute __label__0
+I have not received my refund for cancellation of order I have not received my refund which was approved __label__0
+I have not received my bills I have not received my refund __label__0
+I have not received my products I have ordered products but I have not received my order __label__1
+I have not received my products and leave registered as received I have not received any of my orders yet __label__1
+I have not received my products and leave registered as received I returned the product and I have not received the replacement or refund __label__0
+I have not received any product and I am finishing the protection of the seller that I can do I did not receive the seller's coupon after clicking on the store page what can I do __label__0
+I have not received any news about the status of the refund Is there reason why the return is delayed so much once the order been canceled My order was canceled and I have not received the refund __label__1
+I have not received an answer to my order I have not received any confirmation after paying my order __label__0
+I have not had an answer to my appeal Can you issue my appeal please __label__0
+I do not get my order and I can not start dispute I can not log in and it says that my account was deactivated __label__0
+not what happens is that I have ordered two caps and only one arrived What happens if the order tracking and I have not received it __label__0
+not what happens is that I have ordered two caps and only one arrived I wonder if the merchandise I have ordered been sent __label__0
+you did not help I still I have unsubscribed from your list However I still receive emails __label__0
+I do not accept the card because it says that the credit is not enough but my card is debit I am trying to pay with Visa credit card but it always says that the payment failed __label__0
+I do not clarify in any way I need to change the numbers on one card to another from another bank I've been an hour and I do not know what to do I will have to wait for someone to solve the problem because I do not do it I have Business credit card that is not accepted __label__0
+they do not help track some orders I need to make claim about some sellers __label__0
+I do not answer the provider Where is the message sent to by the provider __label__0
+they do not give an answer to my messages and because of ignorance I do not know where my order is located I play the game why do not you give coins __label__0
+It does not let access anything It does not let click on Open dispute __label__0
+Will not let send the dispute or upload the image It does not let make dispute about the request __label__1
+Will not let send the dispute or upload the image I accidentally confirmed the reception of the package the package not even arrived __label__0
+I did not use your answer My message window does not let write an answer to seller Why is this happening __label__0
+The order not arrived yet I want to cancel the order but even so the sellers sent it __label__0
+It not come It got lost How can I get my money back So far my order not arrived __label__1
+I have not been reimbursed for the money How can I pay with money refunded __label__0
+I do not mind waiting but I sent message to the seller and does not answer The seller does not answer __label__1
+it does not allow to make the payment it asks for identification but it does not allow to send They have given my tracking number but I can not follow up __label__0
+I do not get the garbage and I have the product I received the product and they gave back the money __label__0
+I can not open dispute because I entered as guest Why can not I open dispute __label__0
+I can not pay for the products I have in my shopping cart My purchases were sent to number that is not my house __label__0
+I can not enter my account How can I change my account __label__0
+I can not enter my account I can not log in with my account __label__1
+I CAN NOT enter my account I am not receiving the email I can not enter my account __label__1
+I CAN NOT enter my account I am not receiving the email I'm longer in the business can you suspend my account __label__0
+I can not wait for the refund period to end I want my money back I can not wait that long __label__1
+I can not do anything with the dispute Can you provide with any information about ** Co Ltd __label__0
+I can not follow up I'm trying to track the package but I can not __label__1
+I can not pay with my card When can I pay for my order with Visa Debit card __label__0
+I CAN NOT PAY WITH CARD I can not pay with card __label__1
+I can not because blocked How can I contact them because my transactions have been canceled __label__0
+I can not continue my purchase Can I buy in bulk __label__0
+I can not use my coupon and I get the feeling that this type of advertising with the coupons is just scam So is He tells that my email address is incorrect __label__0
+I can not see my orders in my order list I want to delete everything in my order list __label__0
+I do not want to chat with machine I want to talk to person not robot __label__1
+I do not want to talk to machine I want to talk to human __label__1
+I do not want to talk to machine I need to speak with representative __label__1
+I do not remember my password I do not remember the password __label__1
+this delay is not communicated for reasons of holidays and before sending the order I decide to cancel it and I am denied even if I have not sent the product I do not want the product and I want the refund of the amount How long does it take to update the price of the product __label__0
+this delay is not communicated for reasons of holidays and before sending the order I decide to cancel it and I am denied even if I have not sent the product I do not want the product and I want the refund of the amount I want an invoice with the name of the product __label__0
+I do not know how much money I have from my refunds and I can not pay my order with that money Will I receive my money back if the order is canceled __label__0
+I do not know how much money I have from my refunds and I can not pay my order with that money One of my orders was canceled by the seller How can I receive my money back __label__0
+do not buy them from the same seller How can I make multiple orders from the same seller so that they are shipped together __label__0
+I'm not canceling product Will the coupon be returned __label__0
+I do not know why my package puts canceled shipment Why in my order does Procesando pago __label__0
+the dispute form is not used The submit button on the dispute form does not work __label__0
+the dispute form is not used What do I write in the account number on the Western Union form __label__0
+I do not have the codes of my orders How do I delete the list of My orders __label__0
+I do not have an order number but it been charged My order was sent but I have not received it __label__0
+I DO NOT HAVE ANY CARDS LINKED I CAN BUY WITHOUT LINKING Why can not I buy with my temporary prepaid card __label__0
+the dispute option does not come Where does this shipment come from __label__0
+I will not be able to make more purchases How do I find previous purchases __label__0
+No I'm sorry something is wrong and it's not nothing is missing Well I will not be able to make the purchase If I could consult someone or find out the fault I would appreciate it If you can send the solution to my email better Greetings and see you later I have placed my order and I have not received it __label__0
+order number I can not find How do I find products that support Select Coupon __label__0
+or they answer or give back the money They do not return my money what can I do now __label__0
+or it's worth with my own bank account My order was closed but the money was charged from my bank account __label__0
+or it's worth with my own bank account How do I log out with my account __label__0
+I operate through virtual card Can I pay with Chinese bank card __label__0
+Again the same I can not access my account Can I transfer funds to another account __label__0
+AGAIN MORE OF THEMSELVES I want them to return the money from the products to another card __label__0
+Hey I have refund pending and I need to know what happens What happens after an order is frozen __label__0
+P that does not answer I want to talk to human not with machine I need to talk to human __label__1
+P that does not answer I want to talk to human not with machine I would like to talk to someone before buying __label__1
+page an article in oxxo and in my orders it appears that I have not paid yet I have already paid for the order and it appears as Suspicious Order __label__0
+to support and to date I have not received positive response I have sent the documents for the appeal but there is response __label__0
+Come with normal person with whom I can solve the problem Are there suppliers with whom you can make custom orders __label__0
+REQUEST SENT TO BAD ADDRESS The order should be sent __label__0
+Paid order canceled I need refund My order was canceled and I have not received the refund __label__1
+Order received without problems ok Can I leave valuations without any order __label__0
+ask for refund when the buyer protection time is over Extra charges to the buyer __label__0
+but it appears as if I had already reached the destination address I've already paid but it seems like I did not __label__0
+but I still do not get my order I placed an order but they closed it for __label__0
+but I still do not get my order The order is canceled but the money not been refunded __label__0
+but the seller told to confirm order received and does not have protection time The seller said there was stock and asked to cancel it __label__0
+But the seller does not reimburse for the money I have paid for my order but the payment not been successful and they charged the money __label__0
+but it was due that arrived more than two months ago I need the product very soon but it says that the processing time is ** days __label__0
+but the amount is higher in dollars Why did they charge the amount twice on my credit card __label__0
+But I need to send my personal information Why do they take so long to send my articles __label__0
+BUT I DO NOT KNOW WHAT SIZE ORDER I'm trying to order dress but it does not give to choose any size __label__0
+BUT I HAVE NO BINDING ANY CARD I CAN BUY WITHOUT LINKING I do not have Visa card how can I buy __label__0
+BUT I HAVE NO BINDING ANY CARD I CAN BUY WITHOUT LINKING Why can not I buy using my credit card __label__0
+BUT IF THEY MADE ME THE DISCOUNT ON THE CARD I DO If I place an order today will I receive it on the *** __label__0
+BUT I HAVE TO PAY ONE FOR ONE I placed an order twice and I want to cancel one __label__0
+but already negotiate with the provider My order was frozen because the provider is suspended What I can do __label__0
+Could I check the refund status of my order How do I check the status of the order __label__0
+By mistake confirm the arrival of some orders I made some payments but they do not appear in the orders __label__0
+By mistake cancel my order Why is my order frozen Will my order reach or will it come back __label__0
+that's why I want refund How do I receive refund for Mercado Pago __label__0
+for this reason my product not arrived The seller now asks for more money for the product __label__0
+for this reason my product not arrived Can you help search for the product on this page __label__0
+for this order that already pays and is not credited to the seller's account Why is the valuation I have left not shown on the seller's appraisal page __label__0
+PLEASE STILL DO NOT ARRIVE ME THE ORDERS HOW LONG DO I HAVE TO WAIT How long do I have to wait for mediation __label__0
+PLEASE FEED A KEY FOR MISTAKE Please call to place an order __label__0
+please in which currency are the products I put products in the Basket but I can not find them __label__0
+PLEASE MAKE THE MACHINE STOP ANSWERING Seller who refuses to answer my emails __label__0
+Please I need to speak with an agent I would like to speak with customer service agent __label__1
+why should I do it How do I cancel my order after doing it __label__0
+because in the local shipping office I do not know how to account for the orders sent by China Post Ordinary Small Packet Plus The products were returned to China by the transport agency __label__0
+because the payment of the oxxo of my order is not reflected The Buyer Protection period of my order is over what can I do __label__0
+Why do I buy cell phone in Spain and take guarantee when I have problem I have to send it to Poland with the consequent costs that this entails not to mention the time it takes Why is the payment received less than what I paid __label__0
+Why do I buy cell phone in Spain and take guarantee when I have problem I have to send it to Poland with the consequent costs that this entails not to mention the time it takes Why is my payment less than what I paid __label__0
+because they do not answer instead of putting robot Why do I have to put the information on the card again __label__0
+I present merchandise problem I have problem paying online with my credit card __label__0
+buyer protection What is Buyer Protection __label__1
+can you connect again with Barbie Is this company you can trust __label__0
+I can cancel an order sent Can I cancel an order __label__0
+I can talk to an agent Can I talk to human __label__1
+Can I pay with another cardholder's card Can I pay with Chinese bank card __label__0
+It took almost two months for to receive guarantee and the seller does not pay attention to The seller told to cancel the order to return the money What I can do __label__0
+What does it say that you have ordered it and that my shipping address appears The seller says that the payment not been received after completing the order What I can do __label__0
+I have not received the order I have received something that I have not asked for __label__0
+what happens if I miss the delivery address What happens if I do not want to send my statement for verification __label__0
+What happens if I pay one day before the order is canceled What happens if an order is displayed twice in my account __label__0
+what can I do since the first day it was used many balls came out and the fabric was of very poor quality It seems that I can not place orders __label__0
+What does this mean Your order will be automatically canceled if the seller does not send it in one day What happens if the seller does not send my order before the processing time __label__1
+WHAT DOES YOUR ORDER MEAN WILL BE CLOSED IN Why is the order not shown in my account __label__0
+which means URL of the article I need an invoice for the order I paid for __label__0
+I wanted to talk to commercial I want to talk to human __label__1
+I want to open dispute because the seller canceled the order I would like to open dispute for the order __label__1
+I want to change the delivery address of my order I need to change the name of my business __label__0
+I want to change size of pants I want to change the score on product __label__0
+I want to cancel my account I want to cancel my order but the goods have been sent __label__0
+I want to buy some carpets with seller and I have asked for price but how do I pay for it I sent an email to the seller How do I read the answer and how do I know when they respond __label__0
+I want to contact an agent I want to contact human __label__1
+I WANT TO CONTACT TO HELP I want the email address to put claim __label__0
+I want to return my order I want to send my order to China It's possible __label__0
+I want to start making some purchases but I have had problems paying with my card I want to pay with my bank card __label__0
+I want to talk to person I want to eliminate an appeal __label__0
+I want to talk to someone not manufactured answers I need to talk to human __label__1
+I want to talk to an agent please I need to speak with representative __label__1
+I want to talk to an operator I want to talk to the seller __label__1
+I want to talk to an operator I need to talk to person __label__1
+I want to pay for paid market Why have I paid with Mercado Pago but my order says Pending payment __label__0
+I want to pay everything together please I want to pay my orders in Pending payment all together but I do not know how __label__1
+I WANT TO KNOW HOW I CAN OBTAIN AN INVOICE FROM A FUTURE ORDER I registered as an affiliate and I want to obtain the affiliate code or the promotion banner __label__0
+I want to know in what currency are the prices I already buy in Uruguay I want to know why I have charge on my credit card before receiving orders __label__0
+I want to know why it says waiting for pick up I want to know how much I have to wait if I'm in Spain __label__0
+I want to know for sure in what currency are the prices for Uruguay in US dollars or Uruguayan pesos Can I pay in my local currency __label__0
+I want to know when my order arrives I want my order more quickly __label__0
+I WOULD LIKE TO SPEAK WITH AN AGENT I need to talk to an agent __label__1
+I WOULD LIKE TO SPEAK WITH AN AGENT I want to talk to human __label__1
+I WOULD LIKE TO SPEAK WITH AN AGENT I need to speak with representative __label__1
+I would like to know how my dispute is going since the seller does not give any signs My account does not give the option to pay with Western Union __label__0
+I would like to know how my dispute is going since the seller does not give any signs After clicking on login it gives an error message __label__0
+I would like to know how my dispute is going since the seller does not give any signs Why does my Basket say that nothing is available __label__0
+I would like to know the steps to follow I want to know how much taxes and import charges could be __label__0
+I would like to know if every time I buy several items from different sellers it is possible that they send everything together How do I pay everything in my basket at once __label__0
+I placed an order and now I can not find it on my order list and I need to see it because I think I ordered two units and only one arrived I placed an order twice and I want to cancel one __label__0
+I placed an order and now I can not find it on my order list and I need to see it because I think I ordered two units and only one arrived How can I delete the received items and unpaid items from my order list __label__0
+I made some purchases of some products and some of them did not reach the sellers tell they will answer and continue to wait but it's too long the order was made in April I placed the order but they suddenly raised the price __label__0
+I made some purchases of some products and some of them did not reach the sellers tell they will answer and continue to wait but it's too long the order was made in April I placed an order but they closed it for __label__0
+Realize the payment of some products but the sellers have not sent them what happens The sellers ask you to make the payment before sending the products __label__0
+Realize the payment of some products but the sellers have not sent them what happens The sellers ask you to pay before sending the products __label__0
+Realize the payment of some products but the sellers have not sent them what happens The payment of the products was not confirmed __label__0
+refund and the order arrived Why do not I receive refund for the order __label__0
+repair in warranty of tablet How do I upload my video in response to mediation dispute __label__0
+repair in warranty of tablet I have question about the customs costs at what value are they assessed __label__0
+repair in warranty of tablet I can not open dispute for an order in Pending shipping __label__0
+It turns out that my product never arrived I would like help with shipment I never received __label__1
+revert receipt of order I need the tracking number of my order __label__0
+You know that I have not paid for product but I got the confirmation from the bank that if the payment was made The seller promised that if I canceled the dispute I would make the refund I can trust him __label__0
+dispute was closed but instead of returning the money they have charged again I have been charged but the order is still pending payment __label__0
+It broken down and the seller does not respond to my messages The seller is always offline and does not respond to my messages __label__1
+payment been made with one of my cards and I did not go I have made an online payment and it ended __label__0
+the key of my card is put How to put the keywords of the search to locate the products I want __label__0
+the dispute was resolved in my favor it says that I agree with the payment team He tells that my email address is incorrect __label__0
+the time to open dispute expired What is the deadline to open dispute __label__0
+the protection expired Is the buyer's protection free __label__0
+According to the followup to my order it says that it was delivered but I have not received it as I do to know with which courier company they sent it and guide number to inquire thanks I have not received the order and the tracking number they gave is wrong __label__0
+It would be possible to have invoice of my order If I use my credit card can I have buyer protection __label__0
+CUSTOMER SERVICE SPEAK I need to talk to the customer __label__1
+If I cancel product minutes after buying how long does the refund take If I cancel my order can you tell how long the refund will take __label__1
+If I cancel product minutes after buying how long does the refund take How long is the warranty of product __label__0
+yes of course I want to increase the number of pieces to the order I want the free customer service number __label__0
+IF THE SELLER SENDS ME THIS THAT MEANS Status The seller sent your order The seller sent the articles How do I track the shipment __label__0
+If I find where to make the appeal but I can not send it I have sent the documents for the appeal but there is response __label__0
+If I find where to make the appeal but I can not send it How do I find the seller's mailing address if I have to return items __label__0
+IF THEY ARE IN CELEBRATION I HOPE BUT THE ORDER ARRIVED IN ARGENTINA AND WAS RETURNED TO SG I DO NOT KNOW WHY THE PAYMENT WAS GOOD I placed an order before and the order was not completed because the seller was suspended __label__0
+IF I AM INTERESTED IN THE PRODUCT STILL I am waiting for the refund of product __label__0
+IF I AM INTERESTED IN THE PRODUCT STILL If I receive the order when I'm not at home where can I pick it up __label__0
+yes thank youyou could help check the status of some orders Can you help with the bank account number they use __label__0
+If I pay with credit card and after the payment the product does not arrive I ask for refund this refund reaches my card or my current account Why does my payment fail with credit card __label__0
+IF I WANTED TO KNOW IF YOU CAN DO SOMETHING SEND MY PURCHASE TO ANOTHER COUNTRY NEVER RECEIVE IT I want to know if my order was sent __label__0
+If you check the pages you will see what was sent How can I know if the supplier sent the products __label__0
+If the automatic cancellation of an order occurs as I recover the money The money is gone but it appears as not paid __label__0
+If the automatic cancellation of an order occurs as I recover the money How can I change the reason for canceling my order __label__0
+being that my order comes from Spain is also affected by the Chinese holidays Does my order come with Buyer Protection automatically __label__0
+meaning of data processing What is the meaning of Arrival at the internal exchange office __label__0
+meaning of data processing What is Fund Processing __label__1
+I only wish that mu change it for another one equal or similar Please change the delivery address I was wrong __label__0
+I only made transfer to the seller's account Can I create seller account __label__0
+I just want the order to come out I have not received my order and I want my money back __label__0
+I just want the order to come out I want my money back __label__0
+I just want to know at what point should I put the option to confirm the order so as not to lose my payment My supplier wants to click on confirm order received to give the correct tracking number __label__0
+I have also extended the period of protection and my purchases did not arrive My purchases were sent to number that is not my house __label__0
+Neither I already received the product but putting it to the test is not what the description said If the product I received is not correct can I return it without expenses __label__0
+I write you in Spanish or English My page is in Spanish __label__0
+I'm putting the n of the arrival order The seller rejects my request to cancel the order __label__0
+I can send you the order number What can I do if the seller refuses to send my order __label__0
+I can send you the order number The order can not be sent to your country __label__0
+I can send you the order number Why can not I send warranty request for my order __label__0
+I can send you the order number Why can not the order be sent to my country region __label__0
+You will have some solution for this delay There is option to open dispute in this order __label__0
+I have an open dispute and I have answer or resolution to the problem I sent the video and I have answer I have already sent the device and it been delivered but I have not heard from the provider yet What I can do __label__0
+I have errors on the website Why do not I see the orders on the website __label__0
+I have errors on the website I do not have the option to open dispute in my order __label__0
+I have my appeals already present what they ask Why do they ask for another payment when I have already made the payment __label__0
+I have pending the return of product and the refund of the amount Does the Buyer Protection cover the shipping costs or just the price of the product __label__0
+I have problem to start the session I have problem with my shipment __label__0
+I have problems with replacement warranty I have problems paying with Visa debit card __label__0
+I have problems with my account I can not make purchases I have problems to create my account __label__0
+I have problems with purchase I have problems sending messages to sellers __label__0
+I have case number my problem is that I want to buy but I can not make the payment I want to pay with Visa card but I have problem __label__0
+I have an order that was delivered in an erroneous address When do I have to verify my identity when placing an order __label__0
+I have an order that was delivered in an erroneous address Our records indicate that your order been delivered successfully __label__1
+I HAVE AN ORDER WITHOUT DELIVERING AND I HAVE REQUESTED THE SELLER MONEY RETURN I placed an order and I entered the address incorrectly __label__0
+I have problem about an order that I made and it not arrived So far my order not arrived __label__1
+I have problem the order did not arrive the seller asked for time I have the message but when I inform him that I do not arrive longer responds and I can longer open the dispute I ask for refund but the seller does not respond __label__0
+I have an outstanding appeal and it's been more than three days and nothing I have debit card and it expiration date __label__0
+I have an appeal but I do not know why it came out I tried to pay twice but sent an error now it turns out that I can not pay because I have an appeal I want to file claim because the seller cheated __label__0
+I have an outstanding compensation I have problem uploading an image __label__0
+I have question about my appeal I have problem with my order at customs Can you send copy of my invoice __label__0
+I have doubt regarding purchase that not yet arrived I have question about the customs costs at what value are they assessed __label__0
+I have question I want to talk to human I need to talk to person __label__1
+I have request on appeal and it is not resolved yet Is this legitimate page __label__0
+I HAVE SEVERAL ORDERS THAT I BUY FROM JULY AND I HAVE NOT RECEIVED THEM I need to cancel the orders I have made __label__0
+THE ORDER HAD TO ARRIVE TODAY AND HAS NOT ARRIVED The order not arrived yet __label__1
+I had to receive an answer between Wednesday and today I want to cancel the order and receive refund __label__0
+time to resolve appeal I have an unresolved dispute __label__0
+my product still does not arrive If I ask now with UPS how many days does the item arrive in my country __label__0
+After contacting the seller for the refund of the order I do not receive an answer When will I receive the refund after opening dispute __label__0
+Your bank suspects fraud in this transaction Tip Contact the issuing bank of your card I canceled an order Will my money be in the bank __label__0
+your previous answer I do not understand Why am I waiting for the other party's response __label__0
+human who answers Now an email arrived that says that my order been canceled because I did not pay __label__0
+human who answers Why did they charge twice for an item I bought __label__0
+An order did not arrive correctly Can I cancel an order __label__0
+seller charges more in the shipment If the order is closed for security reasons is the payment still charged __label__0
+seller charges more in the shipment The seller sends the package by free shipping instead of EMS __label__0
+I'll wait couple of days How much is product worth __label__0
+I'll wait couple of days I do not have tracking number __label__0
+value an already closed order I have already opened dispute but you have closed it __label__0
+I am going to buy product and it does not leave when it comes to paying it I just bought product and I need you to send it to different address __label__0
+I will return an order as I have to do I paid for an order and it's frozen what do I have to do __label__0
+AND TO PUT ME IN CONTACT WITH YOU I THINK THAT BY ERROR I HAVE GIVEN YOU AN INCORRECT NUMBER OF ORDER What can I do if I have placed an order by mistake __label__0
+And how to cancel an order since it passed lot and does not leave the country of origin I bought product and did not come to my country __label__0
+And when would the refund be made effective I need to know when the order is delivered to __label__0
+and the product sent to came defective My product is defective __label__1
+and the product sent to came defective They sent the wrong size __label__0
+and the product sent to came defective The seller asked to confirm the delivery before sending the product __label__0
+and the seller agreed to return the money How long will it take to return the money from failed transaction __label__0
+and the seller did not answer week ago I opened dispute but the seller rejected it and kept my money __label__0
+and the seller does not give solution The seller said there was stock and asked to cancel it __label__0
+and I'm claiming refund I'm trying to place an order and there's luck __label__0
+and I'm claiming refund I'm looking for product __label__0
+and I have given it to received and it is not deleted I paid for my order and I have not received it __label__0
+and I get page that says that my session ended It says that my account does not exist __label__0
+and I need my money back I need to change my email address __label__0
+and I have not made the disbursement I have paid for my order and I have been asked to pay again what do I do __label__0
+and I did not paypal account I open new account and they do not let buy things here __label__0
+and I did not paypal account I have registered and I need my new member coupon __label__0
+and know the name and phone number of the person in charge of delivering the product How do Asian and UK sizes compare __label__0
+and I cancel x half of wester union I tried to pay with Western Union but the account number is not correct __label__0
+and I cancel x half of wester union Bank transfer and Western Union do not appear as payment methods on the payment page __label__0
+and I cancel x half of wester union How do I cancel my order after doing it __label__0
+and I cancel x half of wester union Why is the payment received less than what I paid __label__0
+already exceeded the time of the dispute The timer of the time remaining before dispute seems strange __label__0
+already exceeded the time of the dispute I have not received the refund after the dispute ended __label__0
+I have already tried several times during several days to place my order and at the time of payment I mark error Why did they charge twice in my bank account for the order __label__0
+I have already paid in the bank the agreed amount but this not been reflected in the status of the order I have specified the address Do I receive the package at this address __label__0
+I have already paid in the bank the agreed amount but this not been reflected in the status of the order How can the seller change the sum of the order __label__0
+I already did that and I still do not get help I want to cancel my order and receive refund __label__0
+I already made my claim for product that came bad Where did I get to the payment page __label__0
+I already did all that process and to date I have not received any product and refund I have already paid for the order and it appears as Suspicious Order __label__0
+I already tried to reset it and the mail does not arrive How do I know when the order arrives in my country __label__0
+I ALREADY SENT MESSAGE BUT DO NOT ANSWER ME I want to cancel the order but the seller does not respond __label__0
+I already informed my seller and I have not received an answer Order canceled by the seller and I have not received the money __label__0
+already done and it does not work I want to buy custommade dress how do I do it __label__0
+already done and it does not work I've already paid but it seems like I did not __label__0
+I'VE ALREADY DONE IT I'M SAYING IT IS FOR THE TRANSPORTER I'm waiting for the mediation to be completed It's been months __label__0
+I'VE ALREADY DONE IT I'M SAYING IT IS FOR THE TRANSPORTER I clicked on the seller's solution by accident __label__0
+THERE IS NO PROTECTION AGAINST THE BUYER I CAN NOT OPEN DISPUTE THE SELLER DOES NOT WANT TO RETURN MY MONEY What happens if the seller does not want to cancel my order __label__0
+I was able to place the order thanks I could not make the payment with my Visa debit card can you help please __label__0
+Since I pay is by western and not with card You do not accept my payment in Western Union The reason is that the account number is not correct __label__0
+I have not opened any dispute Why have you confirmed my order if I have opened dispute __label__0
+I want to cancel the order but it does not appear in my orders I can not perform the action because it does not appear in my account My order does not appear under the My Orders tab __label__1
+I want my money nothing more I want my money back __label__1
+I want my money nothing more Why does my Basket say that nothing is available __label__0
+I WANT TO KNOW Q PASS WITH MY PAYMENT I want to know the status of my claim __label__0
+I just want to talk to an agent I need to speak with representative __label__1
+I just want to talk to an agent I just want to place an order for product instantly __label__1
+How can I protect so that they do not make any purchases How many days for my purchase to arrive in my country __label__0
+Why do they always send the same email The seller is always offline and does not respond to my messages __label__0
+Can you communicate with the seller Can you help with the bank account number they use __label__0
+Can I return product by regular mail How can I order product __label__0
+What should I do to know if they are going to send How can I get my money back __label__0
+Do you want to know if you are sending batteries to Brazil I would like to know if they accept American Express __label__0
+my order is missing the small handle I received the message that some products were canceled due to lack of payment __label__0
+what mail can I send my disputes I can not track my products with the code that the seller gave __label__0
+what mail can I send my disputes How can I pay for my purchases __label__0
+I opened good dispute that I think How to cancel dispute __label__0
