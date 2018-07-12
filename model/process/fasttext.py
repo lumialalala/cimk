@@ -1,4 +1,4 @@
-import fasttext
+import fastText as fasttext
 
 
 class ft(object):
@@ -7,7 +7,6 @@ class ft(object):
         self.file_ft_train = conf["file_train"]
         self_file_ft_test = conf["file_ft_test"]
     def train(self):
-        classifier = fasttext.supervised(input=self.file_ft_train, label_prefix="__lable__", wordNgrams=2,
-                                         ws=8, epoch=10)
+        classifier = fasttext.supervised(input=self.file_ft_train, label_prefix="__lable__",ws = 8, epoch = 10)
         return classifier
 

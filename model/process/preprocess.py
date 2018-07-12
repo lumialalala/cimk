@@ -38,7 +38,7 @@ class preprocess(object):
             sen = sen1 + ' ' + sen2
             sen = self.clean_str(sen)
             label_list.append(line_list[4])
-            label = "__label__" + str(line_list[4]).strip()
+            label = " __label__" + str(line_list[4]).strip()
             final = sen + label +"\n"
             ft_train.write(final)
         ft_train.close()
