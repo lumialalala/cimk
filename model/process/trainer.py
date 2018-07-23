@@ -15,6 +15,6 @@ class Trainer(object):
             for i in range(0, 2):
                 if labels[i] == '__label__1':
                     score = probas[i]
-                    result = str(score)+"\n"
+                    result = str(score)+"\t"
                     output.write(result)
         output.close()
