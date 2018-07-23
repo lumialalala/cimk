@@ -20,12 +20,12 @@ def main(file_config):
     conf = load_conf(file_config)
     pro = preprocess(conf)
     pro.process()
-    model = load_model(file_config)
-    trainer = Trainer(model, conf)
-    trainer.test_model(model)
+    #model = load_model(file_config)
+    #trainer = Trainer(model, conf)
+    #trainer.test_model(model)
 
 
-file_config = "../../conf/config.yaml"
+file_config = "../../conf/v1.0/config.yaml"
 main(file_config)
 #if __name__ == "main()":
 #    file_config = "../../conf/cofig.yaml"
