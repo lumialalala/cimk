@@ -107,6 +107,7 @@ class Trainer(object):
         return sum / df_size
 
     def process(self):
+        trainer.load_val_data()
         file_train_split = self.file_ft_train_split
         file_re_train = self.file_re_train
         self.test_model(self.model, file_train_split,file_re_train )
@@ -131,4 +132,4 @@ if __name__ == '__main__':
     print("aaa")
     conf = yaml.load(file_config)
     trainer = Trainer(conf)
-    # trainer.load_val_data()
+    trainer.load_val_data()
