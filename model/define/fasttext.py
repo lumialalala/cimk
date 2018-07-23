@@ -1,5 +1,5 @@
-#import fastText as fasttext
-import fasttext
+import fastText as fasttext
+#import fasttext
 
 class ft(object):
     def __init__(self, conf):

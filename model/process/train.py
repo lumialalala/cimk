@@ -2,7 +2,7 @@ from preprocess import preprocess
 from trainer import Trainer
 import yaml
 import sys
-sys.append("../define")
+sys.path.append("../define")
 from fasttext import ft
 
 
@@ -23,8 +23,8 @@ def main(file_config):
     #pro = preprocess(conf)
     #pro.process()
     model = load_model(file_config)
-    trainer = Trainer(model, conf)
-    trainer.process(model)
+    trainer = Trainer(conf, model)
+    trainer.process()
 
 
 file_config = "../../conf/v1.0/config.yaml"

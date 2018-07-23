@@ -83,12 +83,14 @@ class Trainer(object):
         list_label = []
         list_score = []
         for eachline in f_test:
-            label = eachline.split("__lable__").strip()
+            #print(eachline.split("__label__"))
+            list_text = eachline.split("__label__")
+            label = list_text[1]
             list_label.append(label)
         f_test.close()
         f_re = codecs.open(file_re, 'r', 'utf-8')
         for eachline in f_re:
-            list_label.append(eachline.strip())
+            list_score.append(eachline.strip())
         f_re.close()
         d = {"label": list_label, "score": list_score}
         df = pd.DataFrame(d)
@@ -97,7 +99,7 @@ class Trainer(object):
     def cal_logloss(self, df_score):
         df_size = df_score.shape[0]
         sum = 0
-        for index, row in df_score.iterrow():
+        for index, row in df_score.iterrows():
             label = int(row["label"])
             score = float(row["score"])
             loss = label * math.log(score) + (1 - label) * math.log(1 - score)
@@ -117,11 +119,11 @@ class Trainer(object):
         logloss_val = self.cal_logloss(df_val)
         print("训练集logloss: ", logloss_train)
         print("验证集logloss: ", logloss_val)
-        #print("-------------对测试集进行预测-----------")
-        #file_test = self.file_ft_test
-        #file_re = self.file_re
-        #self.test_model(self.model, file_test, file_re)
-        #print("-----------------end--------------------")
+        print("-------------对测试集进行预测-----------")
+        file_test = self.file_ft_test
+        file_re = self.file_re
+        self.test_model(self.model, file_test, file_re)
+        print("-----------------end--------------------")
 
 
 if __name__ == '__main__':
