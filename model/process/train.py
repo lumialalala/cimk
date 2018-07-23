@@ -1,7 +1,9 @@
 from preprocess import preprocess
-from fasttext import ft
 from trainer import Trainer
 import yaml
+import sys
+sys.append("../define")
+from fasttext import ft
 
 
 def load_conf(file_config):
@@ -18,11 +20,11 @@ def load_model(file_config):
 
 def main(file_config):
     conf = load_conf(file_config)
-    pro = preprocess(conf)
-    pro.process()
-    #model = load_model(file_config)
-    #trainer = Trainer(model, conf)
-    #trainer.test_model(model)
+    #pro = preprocess(conf)
+    #pro.process()
+    model = load_model(file_config)
+    trainer = Trainer(model, conf)
+    trainer.process(model)
 
 
 file_config = "../../conf/v1.0/config.yaml"
